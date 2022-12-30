@@ -1,0 +1,60 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "D:\\repository\\diplom\\server\\src\\logs\\debug\\.f27f40cbe5fd7b607251f7513c5326f9ad67f037-audit.json",
+    "files": [
+        {
+            "date": 1670413198531,
+            "name": "D:\\repository\\diplom\\server\\src\\logs\\debug\\2022-12-07.log",
+            "hash": "cc3f951f872f5f7bc01b0ef60a1c373315589514f05893255d18e2d4016b5d4e"
+        },
+        {
+            "date": 1670479889547,
+            "name": "D:\\repository\\diplom\\server\\src\\logs\\debug\\2022-12-08.log",
+            "hash": "933c5563ac4972e96c21b210bbf1d0e32a6a403970e138f02ebb888477f07977"
+        },
+        {
+            "date": 1670564738284,
+            "name": "D:\\repository\\diplom\\server\\src\\logs\\debug\\2022-12-09.log",
+            "hash": "a423abad9fffe7d379fffa70bbc9964811def082d9cba0ee80c1096fbc09a96e"
+        },
+        {
+            "date": 1670938378194,
+            "name": "D:\\repository\\diplom\\server\\src\\logs\\debug\\2022-12-13.log",
+            "hash": "096a55c52489071ecbf66c02f4fce3b8d92a930b7cd5bef58b47e1607d46d96f"
+        },
+        {
+            "date": 1670998584586,
+            "name": "D:\\repository\\diplom\\server\\src\\logs\\debug\\2022-12-14.log",
+            "hash": "ac284ba15436ea16b46489a6d591f8f8e98df52bd1886e9a2299253a16a658a5"
+        },
+        {
+            "date": 1671108562850,
+            "name": "D:\\repository\\diplom\\server\\src\\logs\\debug\\2022-12-15.log",
+            "hash": "993eb6131c8bd687cdcf7127acbf309c5d5ae089b586369b30ca8e725229032e"
+        },
+        {
+            "date": 1671181893239,
+            "name": "D:\\repository\\diplom\\server\\src\\logs\\debug\\2022-12-16.log",
+            "hash": "3f714183d45e9a656c969b0b5a4bf0c60bef1053a8cff818cb1380cb1b70dfbf"
+        },
+        {
+            "date": 1671442152545,
+            "name": "D:\\repository\\diplom\\server\\src\\logs\\debug\\2022-12-19.log",
+            "hash": "3711ca560000c16439c00aa1418cd1dbfa676e6a8785d5bb13ef0979c5ec2430"
+        },
+        {
+            "date": 1671515906855,
+            "name": "D:\\repository\\diplom\\server\\src\\logs\\debug\\2022-12-20.log",
+            "hash": "34ce77c60848f484d78793ef35c4159b67e3b0e86d78f9808c4b7d08f8804b3a"
+        },
+        {
+            "date": 1672166248490,
+            "name": "D:\\repository\\diplom\\server\\src\\logs\\debug\\2022-12-27.log",
+            "hash": "3bcbcdec3eabfdd9d78a7187026e0f64783efebd9852adf9128dd0525869116d"
+        }
+    ],
+    "hashType": "sha256"
+}

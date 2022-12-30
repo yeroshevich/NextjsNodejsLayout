@@ -1,0 +1,14 @@
+export declare const Role: any;
+export declare const User: any;
+export declare const FeedBack: any;
+export declare const OrderAddress: any;
+export declare const Category: any;
+export declare const Product: any;
+export declare const InnerDocument: any;
+export declare const FavoriteProduct: any;
+export declare const FeedBackProduct: any;
+export declare const Order: any;
+export declare const Promocode: any;
+export declare const DeliveryStatus: any;
+export declare const DeliveryVariaty: any;
+export declare const PaymentVariaty: any;

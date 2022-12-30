@@ -1,0 +1,6 @@
+2022-12-14 09:17:48 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-14 09:18:24 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-14 09:18:38 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-14 09:18:41 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-14 09:19:00 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-14 09:33:12 error: [POST] /login >> StatusCode:: 409, Message:: Password is not matching

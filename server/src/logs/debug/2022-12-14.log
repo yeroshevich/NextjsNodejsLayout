@@ -1,0 +1,27 @@
+2022-12-14 09:16:26 info: =================================
+2022-12-14 09:16:26 info: ======= ENV: development =======
+2022-12-14 09:16:26 info: 🚀 App listening on the port 8080
+2022-12-14 09:16:26 info: =================================
+2022-12-14 09:17:18 info: [0mGET / [36m304[0m 14.122 ms - -[0m
+2022-12-14 09:17:18 info: [0mGET / [36m304[0m 3.330 ms - -[0m
+2022-12-14 09:17:48 info: [0mOPTIONS /logout [32m204[0m 1.070 ms - 0[0m
+2022-12-14 09:17:48 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-14 09:17:48 info: [0mPOST /logout [33m404[0m 60.751 ms - 42[0m
+2022-12-14 09:18:24 info: [0mOPTIONS /logout [32m204[0m 0.918 ms - 0[0m
+2022-12-14 09:18:24 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-14 09:18:24 info: [0mPOST /logout [33m404[0m 5.234 ms - 42[0m
+2022-12-14 09:18:38 info: [0mOPTIONS /logout [32m204[0m 0.985 ms - 0[0m
+2022-12-14 09:18:38 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-14 09:18:38 info: [0mPOST /logout [33m404[0m 4.263 ms - 42[0m
+2022-12-14 09:18:41 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-14 09:18:41 info: [0mPOST /logout [33m404[0m 5.116 ms - 42[0m
+2022-12-14 09:19:00 info: [0mOPTIONS /logout [32m204[0m 0.816 ms - 0[0m
+2022-12-14 09:19:00 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-14 09:19:00 info: [0mPOST /logout [33m404[0m 3.981 ms - 42[0m
+2022-12-14 09:29:46 info: =================================
+2022-12-14 09:29:46 info: ======= ENV: development =======
+2022-12-14 09:29:46 info: 🚀 App listening on the port 8080
+2022-12-14 09:29:46 info: =================================
+2022-12-14 09:31:46 info: [0mPOST /login [32m200[0m 156.177 ms - 232[0m
+2022-12-14 09:33:12 error: [POST] /login >> StatusCode:: 409, Message:: Password is not matching
+2022-12-14 09:33:12 info: [0mPOST /login [33m409[0m 14.712 ms - 38[0m

@@ -1,0 +1,1 @@
+2022-12-27 21:39:59 error: [POST] /login >> StatusCode:: 400, Message:: phoneNumber should not be empty, password must be a string

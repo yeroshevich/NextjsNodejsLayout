@@ -1,0 +1,1229 @@
+2022-12-08 09:11:30 error: uncaughtException: Invalid Instance definition. Only one autoincrement field allowed.
+Error: Invalid Instance definition. Only one autoincrement field allowed.
+    at Function._findAutoIncrementAttribute (D:\repository\diplom\server\node_modules\sequelize\src\model.js:332:19)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1107:10)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\roles.repository.ts:5:42)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-12-08 09:41:14 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/controllers/index.controller.ts(11,52): error TS1003: Identifier expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/controllers/index.controller.ts(11,52): error TS1003: Identifier expected.
+
+    at createTSError (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:863:19)
+    at D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-12-08 09:41:57 error: uncaughtException: Cannot read properties of undefined (reading 'define')
+TypeError: Cannot read properties of undefined (reading 'define')
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\users.repository.ts:14:41)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\src\middlewares\auth.middleware.ts:6:1)
+2022-12-08 09:42:22 error: uncaughtException: sequelize is not defined
+ReferenceError: sequelize is not defined
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\roles.repository.ts:5:32)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\users.repository.ts:4:1)
+2022-12-08 09:43:07 error: uncaughtException: dbConfig is not defined
+ReferenceError: dbConfig is not defined
+    at Object.<anonymous> (D:\repository\diplom\server\src\database\database.ts:8:3)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\users.repository.ts:2:1)
+2022-12-08 09:43:12 error: uncaughtException: sequelize is not defined
+ReferenceError: sequelize is not defined
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\roles.repository.ts:5:32)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\users.repository.ts:4:1)
+2022-12-08 09:46:07 error: uncaughtException: sequelize is not defined
+ReferenceError: sequelize is not defined
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\roles.repository.ts:5:32)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\users.repository.ts:4:1)
+2022-12-08 09:46:32 error: uncaughtException: Invalid Instance definition. Only one autoincrement field allowed.
+Error: Invalid Instance definition. Only one autoincrement field allowed.
+    at Function._findAutoIncrementAttribute (D:\repository\diplom\server\node_modules\sequelize\src\model.js:332:19)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1107:10)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\users.repository.ts:14:41)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-12-08 09:46:52 error: uncaughtException: Invalid Instance definition. Only one autoincrement field allowed.
+Error: Invalid Instance definition. Only one autoincrement field allowed.
+    at Function._findAutoIncrementAttribute (D:\repository\diplom\server\node_modules\sequelize\src\model.js:332:19)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1107:10)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\users.repository.ts:14:41)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-12-08 09:47:11 error: uncaughtException: Invalid Instance definition. Only one autoincrement field allowed.
+Error: Invalid Instance definition. Only one autoincrement field allowed.
+    at Function._findAutoIncrementAttribute (D:\repository\diplom\server\node_modules\sequelize\src\model.js:332:19)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1107:10)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\users.repository.ts:14:41)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-12-08 09:47:48 error: uncaughtException: Invalid Instance definition. Only one autoincrement field allowed.
+Error: Invalid Instance definition. Only one autoincrement field allowed.
+    at Function._findAutoIncrementAttribute (D:\repository\diplom\server\node_modules\sequelize\src\model.js:332:19)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1107:10)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\users.repository.ts:14:41)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-12-08 09:51:20 error: uncaughtException: user_role.hasMany called with something that's not a subclass of Sequelize.Model
+Error: user_role.hasMany called with something that's not a subclass of Sequelize.Model
+    at Function.hasMany (D:\repository\diplom\server\node_modules\sequelize\src\associations\mixin.js:18:13)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\roles.repository.ts:23:17)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+2022-12-08 09:51:39 error: uncaughtException: user_role.hasMany called with something that's not a subclass of Sequelize.Model
+Error: user_role.hasMany called with something that's not a subclass of Sequelize.Model
+    at Function.hasMany (D:\repository\diplom\server\node_modules\sequelize\src\associations\mixin.js:18:13)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\roles.repository.ts:23:17)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+2022-12-08 10:26:04 error: [GET] / >> StatusCode:: 500, Message:: user_role is not associated to user!
+2022-12-08 10:27:09 error: [GET] / >> StatusCode:: 500, Message:: Class constructor model cannot be invoked without 'new'
+2022-12-08 10:30:26 error: [GET] / >> StatusCode:: 500, Message:: Unknown column 'users.userRoleIdRole' in 'field list'
+2022-12-08 10:30:54 error: [GET] / >> StatusCode:: 500, Message:: Unknown column 'users.userRoleIdRole' in 'field list'
+2022-12-08 10:32:42 error: [GET] / >> StatusCode:: 500, Message:: Class constructor model cannot be invoked without 'new'
+2022-12-08 10:32:51 error: [GET] / >> StatusCode:: 500, Message:: Class constructor model cannot be invoked without 'new'
+2022-12-08 10:33:43 error: [GET] / >> StatusCode:: 500, Message:: Class constructor model cannot be invoked without 'new'
+2022-12-08 10:38:15 error: [GET] / >> StatusCode:: 500, Message:: Class constructor UserRepository cannot be invoked without 'new'
+2022-12-08 10:46:05 error: [GET] / >> StatusCode:: 500, Message:: Class constructor UserRepository cannot be invoked without 'new'
+2022-12-08 10:47:27 error: [GET] / >> StatusCode:: 500, Message:: Class constructor UserRepository cannot be invoked without 'new'
+2022-12-08 10:50:11 error: [GET] / >> StatusCode:: 500, Message:: Class constructor UserRepository cannot be invoked without 'new'
+2022-12-08 10:50:12 error: [GET] / >> StatusCode:: 500, Message:: Class constructor UserRepository cannot be invoked without 'new'
+2022-12-08 10:54:12 error: [GET] / >> StatusCode:: 500, Message:: Class constructor UserRepository cannot be invoked without 'new'
+2022-12-08 10:55:15 error: [GET] / >> StatusCode:: 500, Message:: Class constructor UserRepository cannot be invoked without 'new'
+2022-12-08 10:55:17 error: [GET] / >> StatusCode:: 500, Message:: Class constructor UserRepository cannot be invoked without 'new'
+2022-12-08 10:56:12 error: [GET] / >> StatusCode:: 500, Message:: Class constructor UserRepository cannot be invoked without 'new'
+2022-12-08 10:56:14 error: [GET] / >> StatusCode:: 500, Message:: Class constructor UserRepository cannot be invoked without 'new'
+2022-12-08 10:56:48 error: [GET] / >> StatusCode:: 500, Message:: Class constructor UserRepository cannot be invoked without 'new'
+2022-12-08 10:57:39 error: [GET] / >> StatusCode:: 500, Message:: Class constructor UserRepository cannot be invoked without 'new'
+2022-12-08 10:57:50 error: [GET] / >> StatusCode:: 500, Message:: Class constructor UserRepository cannot be invoked without 'new'
+2022-12-08 11:59:39 error: [GET] / >> StatusCode:: 500, Message:: user_role is not associated to user_role!
+2022-12-08 11:59:49 error: [GET] / >> StatusCode:: 500, Message:: Class constructor model cannot be invoked without 'new'
+2022-12-08 12:00:47 error: uncaughtException: Table is not defined
+ReferenceError: Table is not defined
+    at Object.<anonymous> (D:\repository\diplom\server\src\database\database.ts:60:2)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\src\controllers\index.controller.ts:3:1)
+2022-12-08 12:11:29 error: uncaughtException: @Column annotation is missing for "idRole" of class "Role" or annotation order is wrong.
+Error: @Column annotation is missing for "idRole" of class "Role" or annotation order is wrong.
+    at addAttributeOptions (D:\repository\diplom\server\node_modules\sequelize-typescript\dist\model\column\attribute-service.js:47:15)
+    at PrimaryKey (D:\repository\diplom\server\node_modules\sequelize-typescript\dist\model\column\primary-key\primary-key.js:9:49)
+    at DecorateProperty (D:\repository\diplom\server\node_modules\reflect-metadata\Reflect.js:553:33)
+    at Reflect.decorate (D:\repository\diplom\server\node_modules\reflect-metadata\Reflect.js:123:24)
+    at Object.__decorate (D:\repository\diplom\server\node_modules\tslib\tslib.js:99:96)
+    at Object.<anonymous> (D:\repository\diplom\server\src\database\database.ts:41:3)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+2022-12-08 12:11:45 error: uncaughtException: @Column annotation is missing for "idRole" of class "Role" or annotation order is wrong.
+Error: @Column annotation is missing for "idRole" of class "Role" or annotation order is wrong.
+    at addAttributeOptions (D:\repository\diplom\server\node_modules\sequelize-typescript\dist\model\column\attribute-service.js:47:15)
+    at PrimaryKey (D:\repository\diplom\server\node_modules\sequelize-typescript\dist\model\column\primary-key\primary-key.js:9:49)
+    at DecorateProperty (D:\repository\diplom\server\node_modules\reflect-metadata\Reflect.js:553:33)
+    at Reflect.decorate (D:\repository\diplom\server\node_modules\reflect-metadata\Reflect.js:123:24)
+    at Object.__decorate (D:\repository\diplom\server\node_modules\tslib\tslib.js:99:96)
+    at Object.<anonymous> (D:\repository\diplom\server\src\database\database.ts:41:3)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+2022-12-08 12:12:07 error: uncaughtException: @Column annotation is missing for "idRole" of class "Role" or annotation order is wrong.
+Error: @Column annotation is missing for "idRole" of class "Role" or annotation order is wrong.
+    at addAttributeOptions (D:\repository\diplom\server\node_modules\sequelize-typescript\dist\model\column\attribute-service.js:47:15)
+    at PrimaryKey (D:\repository\diplom\server\node_modules\sequelize-typescript\dist\model\column\primary-key\primary-key.js:9:49)
+    at DecorateProperty (D:\repository\diplom\server\node_modules\reflect-metadata\Reflect.js:553:33)
+    at Reflect.decorate (D:\repository\diplom\server\node_modules\reflect-metadata\Reflect.js:123:24)
+    at Object.__decorate (D:\repository\diplom\server\node_modules\tslib\tslib.js:99:96)
+    at Object.<anonymous> (D:\repository\diplom\server\src\database\database.ts:41:3)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+2022-12-08 12:13:33 error: uncaughtException: RolesRepository is not defined
+ReferenceError: RolesRepository is not defined
+    at Object.<anonymous> (D:\repository\diplom\server\src\database\database.ts:76:1)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\src\controllers\index.controller.ts:3:1)
+2022-12-08 12:13:52 error: [GET] / >> StatusCode:: 500, Message:: Class constructor model cannot be invoked without 'new'
+2022-12-08 12:15:28 error: uncaughtException: Cannot find module '@/entities/users.repository'
+Require stack:
+- D:\repository\diplom\server\src\middlewares\auth.middleware.ts
+- D:\repository\diplom\server\src\controllers\auth.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '@/entities/users.repository'
+Require stack:
+- D:\repository\diplom\server\src\middlewares\auth.middleware.ts
+- D:\repository\diplom\server\src\controllers\auth.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\src\middlewares\auth.middleware.ts:6:1)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 12:15:58 error: uncaughtException: Cannot find module '@/entities/users.repository'
+Require stack:
+- D:\repository\diplom\server\src\middlewares\auth.middleware.ts
+- D:\repository\diplom\server\src\controllers\auth.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '@/entities/users.repository'
+Require stack:
+- D:\repository\diplom\server\src\middlewares\auth.middleware.ts
+- D:\repository\diplom\server\src\controllers\auth.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\src\middlewares\auth.middleware.ts:6:1)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 12:16:49 error: uncaughtException: Cannot find module '@/entities/users.repository'
+Require stack:
+- D:\repository\diplom\server\src\middlewares\auth.middleware.ts
+- D:\repository\diplom\server\src\controllers\auth.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '@/entities/users.repository'
+Require stack:
+- D:\repository\diplom\server\src\middlewares\auth.middleware.ts
+- D:\repository\diplom\server\src\controllers\auth.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\src\middlewares\auth.middleware.ts:6:1)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 12:17:06 error: uncaughtException: Cannot find module '@/entities/users.repository'
+Require stack:
+- D:\repository\diplom\server\src\middlewares\auth.middleware.ts
+- D:\repository\diplom\server\src\controllers\auth.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '@/entities/users.repository'
+Require stack:
+- D:\repository\diplom\server\src\middlewares\auth.middleware.ts
+- D:\repository\diplom\server\src\controllers\auth.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\src\middlewares\auth.middleware.ts:6:1)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 12:17:12 error: uncaughtException: Cannot find module '@/entities/users.repository'
+Require stack:
+- D:\repository\diplom\server\src\middlewares\auth.middleware.ts
+- D:\repository\diplom\server\src\controllers\auth.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '@/entities/users.repository'
+Require stack:
+- D:\repository\diplom\server\src\middlewares\auth.middleware.ts
+- D:\repository\diplom\server\src\controllers\auth.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\src\middlewares\auth.middleware.ts:6:1)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 12:17:22 error: uncaughtException: Cannot find module '@/entities/users.repository'
+Require stack:
+- D:\repository\diplom\server\src\middlewares\auth.middleware.ts
+- D:\repository\diplom\server\src\controllers\auth.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '@/entities/users.repository'
+Require stack:
+- D:\repository\diplom\server\src\middlewares\auth.middleware.ts
+- D:\repository\diplom\server\src\controllers\auth.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\src\middlewares\auth.middleware.ts:6:1)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 12:17:31 error: uncaughtException: Cannot find module '@/entities/users.repository'
+Require stack:
+- D:\repository\diplom\server\src\middlewares\auth.middleware.ts
+- D:\repository\diplom\server\src\controllers\auth.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '@/entities/users.repository'
+Require stack:
+- D:\repository\diplom\server\src\middlewares\auth.middleware.ts
+- D:\repository\diplom\server\src\controllers\auth.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\src\middlewares\auth.middleware.ts:6:1)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 12:17:49 error: uncaughtException: Cannot find module '@/entities/users.repository'
+Require stack:
+- D:\repository\diplom\server\src\middlewares\auth.middleware.ts
+- D:\repository\diplom\server\src\controllers\auth.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '@/entities/users.repository'
+Require stack:
+- D:\repository\diplom\server\src\middlewares\auth.middleware.ts
+- D:\repository\diplom\server\src\controllers\auth.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\src\middlewares\auth.middleware.ts:6:1)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 12:17:52 error: uncaughtException: Cannot find module '@/entities/users.repository'
+Require stack:
+- D:\repository\diplom\server\src\middlewares\auth.middleware.ts
+- D:\repository\diplom\server\src\controllers\auth.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '@/entities/users.repository'
+Require stack:
+- D:\repository\diplom\server\src\middlewares\auth.middleware.ts
+- D:\repository\diplom\server\src\controllers\auth.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\src\middlewares\auth.middleware.ts:6:1)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 12:18:03 error: uncaughtException: Cannot find module '@/entities/users.repository'
+Require stack:
+- D:\repository\diplom\server\src\middlewares\auth.middleware.ts
+- D:\repository\diplom\server\src\controllers\auth.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '@/entities/users.repository'
+Require stack:
+- D:\repository\diplom\server\src\middlewares\auth.middleware.ts
+- D:\repository\diplom\server\src\controllers\auth.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\src\middlewares\auth.middleware.ts:6:1)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 12:18:14 error: uncaughtException: user_role.hasMany called with something that's not a subclass of Sequelize.Model
+Error: user_role.hasMany called with something that's not a subclass of Sequelize.Model
+    at Function.hasMany (D:\repository\diplom\server\node_modules\sequelize\src\associations\mixin.js:18:13)
+    at Object.<anonymous> (D:\repository\diplom\server\src\entities\role.model.ts:22:6)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+2022-12-08 12:18:34 error: uncaughtException: user_role.hasMany called with something that's not a subclass of Sequelize.Model
+Error: user_role.hasMany called with something that's not a subclass of Sequelize.Model
+    at Function.hasMany (D:\repository\diplom\server\node_modules\sequelize\src\associations\mixin.js:18:13)
+    at Object.<anonymous> (D:\repository\diplom\server\src\entities\role.model.ts:22:6)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+2022-12-08 12:18:39 error: uncaughtException: user_role.hasMany called with something that's not a subclass of Sequelize.Model
+Error: user_role.hasMany called with something that's not a subclass of Sequelize.Model
+    at Function.hasMany (D:\repository\diplom\server\node_modules\sequelize\src\associations\mixin.js:18:13)
+    at Object.<anonymous> (D:\repository\diplom\server\src\entities\role.model.ts:22:6)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+2022-12-08 12:18:51 error: uncaughtException: user_role.hasMany called with something that's not a subclass of Sequelize.Model
+Error: user_role.hasMany called with something that's not a subclass of Sequelize.Model
+    at Function.hasMany (D:\repository\diplom\server\node_modules\sequelize\src\associations\mixin.js:18:13)
+    at Object.<anonymous> (D:\repository\diplom\server\src\entities\role.model.ts:22:6)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+2022-12-08 12:19:34 error: uncaughtException: Cannot find module '@entities/role.model'
+Require stack:
+- D:\repository\diplom\server\src\entities\user.model.ts
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '@entities/role.model'
+Require stack:
+- D:\repository\diplom\server\src\entities\user.model.ts
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\src\entities\user.model.ts:3:1)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 12:19:41 error: uncaughtException: Cannot find module '@entities/user.model'
+Require stack:
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '@entities/user.model'
+Require stack:
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\src\controllers\index.controller.ts:3:1)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 12:19:43 error: uncaughtException: user_role.hasMany called with something that's not a subclass of Sequelize.Model
+Error: user_role.hasMany called with something that's not a subclass of Sequelize.Model
+    at Function.hasMany (D:\repository\diplom\server\node_modules\sequelize\src\associations\mixin.js:18:13)
+    at Object.<anonymous> (D:\repository\diplom\server\src\entities\role.entity.ts:22:6)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+2022-12-08 12:19:55 error: uncaughtException: user_role.hasMany called with something that's not a subclass of Sequelize.Model
+Error: user_role.hasMany called with something that's not a subclass of Sequelize.Model
+    at Function.hasMany (D:\repository\diplom\server\node_modules\sequelize\src\associations\mixin.js:18:13)
+    at Object.<anonymous> (D:\repository\diplom\server\src\entities\role.entity.ts:22:6)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+2022-12-08 12:20:06 error: uncaughtException: user_role.hasMany called with something that's not a subclass of Sequelize.Model
+Error: user_role.hasMany called with something that's not a subclass of Sequelize.Model
+    at Function.hasMany (D:\repository\diplom\server\node_modules\sequelize\src\associations\mixin.js:18:13)
+    at Object.<anonymous> (D:\repository\diplom\server\src\entities\role.entity.ts:22:6)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+2022-12-08 12:21:06 error: [GET] / >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'findAll')
+2022-12-08 12:23:33 error: uncaughtException: Role is not defined
+ReferenceError: Role is not defined
+    at Object.<anonymous> (D:\repository\diplom\server\src\database\database.ts:52:16)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\src\controllers\index.controller.ts:3:1)
+2022-12-08 12:24:40 error: uncaughtException: Cannot find module '@entities/role.model'
+Require stack:
+- D:\repository\diplom\server\dist\entities\user.model.js
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '@entities/role.model'
+Require stack:
+- D:\repository\diplom\server\dist\entities\user.model.js
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\dist\entities\user.model.js:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 12:25:35 error: uncaughtException: Cannot find module '@entities/user.model'
+Require stack:
+- D:\repository\diplom\server\dist\entities\role.model.js
+- D:\repository\diplom\server\src\entities\user.entity.ts
+- D:\repository\diplom\server\src\database\database.ts
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '@entities/user.model'
+Require stack:
+- D:\repository\diplom\server\dist\entities\role.model.js
+- D:\repository\diplom\server\src\entities\user.entity.ts
+- D:\repository\diplom\server\src\database\database.ts
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\dist\entities\role.model.js:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 12:25:45 error: uncaughtException: Cannot find module '@entities/user.model'
+Require stack:
+- D:\repository\diplom\server\dist\entities\role.model.js
+- D:\repository\diplom\server\src\entities\user.entity.ts
+- D:\repository\diplom\server\src\database\database.ts
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '@entities/user.model'
+Require stack:
+- D:\repository\diplom\server\dist\entities\role.model.js
+- D:\repository\diplom\server\src\entities\user.entity.ts
+- D:\repository\diplom\server\src\database\database.ts
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\dist\entities\role.model.js:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 12:27:44 error: uncaughtException: Cannot find module '../entities/user.entity'
+Require stack:
+- D:\repository\diplom\server\src\database\database.ts
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '../entities/user.entity'
+Require stack:
+- D:\repository\diplom\server\src\database\database.ts
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\src\database\database.ts:20:14)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 12:28:12 error: [GET] / >> StatusCode:: 500, Message:: database_1.default.findAll is not a function
+2022-12-08 12:28:22 error: uncaughtException: Cannot find module '@entities/role.model'
+Require stack:
+- D:\repository\diplom\server\dist\entities\user.model.js
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '@entities/role.model'
+Require stack:
+- D:\repository\diplom\server\dist\entities\user.model.js
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\dist\entities\user.model.js:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 12:30:02 error: uncaughtException: Cannot find module '@entities/role.model'
+Require stack:
+- D:\repository\diplom\server\dist\entities\user.model.js
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '@entities/role.model'
+Require stack:
+- D:\repository\diplom\server\dist\entities\user.model.js
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\dist\entities\user.model.js:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 12:31:31 error: uncaughtException: Cannot find module '@entities/role.model'
+Require stack:
+- D:\repository\diplom\server\dist\entities\user.model.js
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '@entities/role.model'
+Require stack:
+- D:\repository\diplom\server\dist\entities\user.model.js
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\dist\entities\user.model.js:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 12:31:54 error: uncaughtException: Cannot find module '@entities/role.model'
+Require stack:
+- D:\repository\diplom\server\dist\entities\user.model.js
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '@entities/role.model'
+Require stack:
+- D:\repository\diplom\server\dist\entities\user.model.js
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\dist\entities\user.model.js:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 12:32:00 error: uncaughtException: Cannot find module '@entities/role.model'
+Require stack:
+- D:\repository\diplom\server\dist\entities\user.model.js
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '@entities/role.model'
+Require stack:
+- D:\repository\diplom\server\dist\entities\user.model.js
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\dist\entities\user.model.js:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 12:33:04 error: uncaughtException: Cannot find module '@entities/role.model'
+Require stack:
+- D:\repository\diplom\server\dist\entities\user.model.js
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '@entities/role.model'
+Require stack:
+- D:\repository\diplom\server\dist\entities\user.model.js
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\dist\entities\user.model.js:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 12:33:42 error: uncaughtException: Cannot find module '@entities/role.model'
+Require stack:
+- D:\repository\diplom\server\dist\entities\user.model.js
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '@entities/role.model'
+Require stack:
+- D:\repository\diplom\server\dist\entities\user.model.js
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\dist\entities\user.model.js:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 12:34:16 error: uncaughtException: Cannot find module '@entities/role.model'
+Require stack:
+- D:\repository\diplom\server\dist\entities\user.model.js
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '@entities/role.model'
+Require stack:
+- D:\repository\diplom\server\dist\entities\user.model.js
+- D:\repository\diplom\server\src\controllers\index.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\dist\entities\user.model.js:7:22)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 12:38:38 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/database/database.ts(80,5): error TS1005: ',' expected.
+src/database/database.ts(80,13): error TS1005: ',' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/database/database.ts(80,5): error TS1005: ',' expected.
+src/database/database.ts(80,13): error TS1005: ',' expected.
+
+    at createTSError (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:863:19)
+    at D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-12-08 12:40:55 error: uncaughtException: feedback.belongsTo called with something that's not a subclass of Sequelize.Model
+Error: feedback.belongsTo called with something that's not a subclass of Sequelize.Model
+    at Function.<anonymous> (D:\repository\diplom\server\node_modules\sequelize\src\associations\mixin.js:93:13)
+    at Object.<anonymous> (D:\repository\diplom\server\src\database\database.ts:96:10)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+2022-12-08 13:09:34 error: uncaughtException: Unrecognized datatype for attribute "feedback_product.datePublication"
+Error: Unrecognized datatype for attribute "feedback_product.datePublication"
+    at D:\repository\diplom\server\node_modules\sequelize\src\model.js:1046:15
+    at D:\repository\diplom\server\node_modules\lodash\lodash.js:13469:38
+    at D:\repository\diplom\server\node_modules\lodash\lodash.js:4967:15
+    at baseForOwn (D:\repository\diplom\server\node_modules\lodash\lodash.js:3032:24)
+    at Function.mapValues (D:\repository\diplom\server\node_modules\lodash\lodash.js:13468:7)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1042:28)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\database\database.ts:137:42)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+2022-12-08 13:16:50 error: uncaughtException: allowNull is not defined
+ReferenceError: allowNull is not defined
+    at Object.<anonymous> (D:\repository\diplom\server\src\database\database.ts:172:5)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\src\controllers\index.controller.ts:2:1)
+2022-12-08 13:23:22 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/database/database.ts(179,5): error TS1005: ',' expected.
+src/database/database.ts(179,13): error TS1005: ',' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/database/database.ts(179,5): error TS1005: ',' expected.
+src/database/database.ts(179,13): error TS1005: ',' expected.
+
+    at createTSError (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:863:19)
+    at D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-12-08 13:26:28 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/database/database.ts(199,5): error TS1005: ',' expected.
+src/database/database.ts(199,13): error TS1005: ',' expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/database/database.ts(199,5): error TS1005: ',' expected.
+src/database/database.ts(199,13): error TS1005: ',' expected.
+
+    at createTSError (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:863:19)
+    at D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-12-08 14:07:04 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(8,59): error TS1002: Unterminated string literal.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(8,59): error TS1002: Unterminated string literal.
+
+    at createTSError (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:863:19)
+    at D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-12-08 14:07:35 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(8,60): error TS1002: Unterminated string literal.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(8,60): error TS1002: Unterminated string literal.
+
+    at createTSError (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:863:19)
+    at D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-12-08 14:08:10 error: uncaughtException: Cannot find module '@database/database'
+Require stack:
+- D:\repository\diplom\server\src\middlewares\auth.middleware.ts
+- D:\repository\diplom\server\src\controllers\auth.controller.ts
+- D:\repository\diplom\server\src\server.ts
+Error: Cannot find module '@database/database'
+Require stack:
+- D:\repository\diplom\server\src\middlewares\auth.middleware.ts
+- D:\repository\diplom\server\src\controllers\auth.controller.ts
+- D:\repository\diplom\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\diplom\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\diplom\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\src\middlewares\auth.middleware.ts:6:1)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-08 14:08:43 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(8,60): error TS1002: Unterminated string literal.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(8,60): error TS1002: Unterminated string literal.
+
+    at createTSError (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:863:19)
+    at D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-12-08 14:09:00 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(8,59): error TS1002: Unterminated string literal.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(8,59): error TS1002: Unterminated string literal.
+
+    at createTSError (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:863:19)
+    at D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-12-08 14:09:10 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(8,59): error TS1002: Unterminated string literal.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(8,59): error TS1002: Unterminated string literal.
+
+    at createTSError (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:863:19)
+    at D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-12-08 14:19:14 error: [POST] /signup >> StatusCode:: 409, Message:: This phone 8029293923 already exists
+2022-12-08 14:19:14 error: uncaughtException: The argument passed to findOne must be an options object, use findByPk if you wish to pass a single primary key value
+Error: The argument passed to findOne must be an options object, use findByPk if you wish to pass a single primary key value
+    at Function.findOne (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1964:13)
+    at AuthService.<anonymous> (D:\repository\diplom\server\src\services\auth.service.ts:17:39)
+    at Generator.next (<anonymous>)
+    at D:\repository\diplom\server\node_modules\tslib\tslib.js:118:75
+    at new Promise (<anonymous>)
+    at Object.__awaiter (D:\repository\diplom\server\node_modules\tslib\tslib.js:114:16)
+    at AuthService.signup (D:\repository\diplom\server\src\services\auth.service.ts:15:24)
+    at AuthController.<anonymous> (D:\repository\diplom\server\src\controllers\auth.controller.ts:18:57)
+    at Generator.next (<anonymous>)
+    at D:\repository\diplom\server\node_modules\tslib\tslib.js:118:75
+2022-12-08 14:21:59 error: [POST] /signup >> StatusCode:: 409, Message:: This phone 8029293343923 already exists
+2022-12-08 14:21:59 error: uncaughtException: The argument passed to findOne must be an options object, use findByPk if you wish to pass a single primary key value
+Error: The argument passed to findOne must be an options object, use findByPk if you wish to pass a single primary key value
+    at Function.findOne (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1964:13)
+    at AuthService.<anonymous> (D:\repository\diplom\server\src\services\auth.service.ts:17:39)
+    at Generator.next (<anonymous>)
+    at D:\repository\diplom\server\node_modules\tslib\tslib.js:118:75
+    at new Promise (<anonymous>)
+    at Object.__awaiter (D:\repository\diplom\server\node_modules\tslib\tslib.js:114:16)
+    at AuthService.signup (D:\repository\diplom\server\src\services\auth.service.ts:15:24)
+    at AuthController.<anonymous> (D:\repository\diplom\server\src\controllers\auth.controller.ts:18:57)
+    at Generator.next (<anonymous>)
+    at D:\repository\diplom\server\node_modules\tslib\tslib.js:118:75
+2022-12-08 14:23:04 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(17,48): error TS1136: Property assignment expected.
+src/services/auth.service.ts(17,50): error TS1005: ',' expected.
+src/services/auth.service.ts(17,51): error TS1068: Unexpected token. A constructor, method, accessor, or property was expected.
+src/services/auth.service.ts(18,5): error TS1434: Unexpected keyword or identifier.
+src/services/auth.service.ts(18,12): error TS1068: Unexpected token. A constructor, method, accessor, or property was expected.
+src/services/auth.service.ts(19,19): error TS1144: '{' or ';' expected.
+src/services/auth.service.ts(26,3): error TS1128: Declaration or statement expected.
+src/services/auth.service.ts(28,3): error TS1128: Declaration or statement expected.
+src/services/auth.service.ts(28,10): error TS1434: Unexpected keyword or identifier.
+src/services/auth.service.ts(28,30): error TS1005: ',' expected.
+src/services/auth.service.ts(28,46): error TS1005: ';' expected.
+src/services/auth.service.ts(28,72): error TS1005: ',' expected.
+src/services/auth.service.ts(29,16): error TS1005: ',' expected.
+src/services/auth.service.ts(29,26): error TS1005: ';' expected.
+src/services/auth.service.ts(41,3): error TS1128: Declaration or statement expected.
+src/services/auth.service.ts(43,3): error TS1128: Declaration or statement expected.
+src/services/auth.service.ts(43,10): error TS1434: Unexpected keyword or identifier.
+src/services/auth.service.ts(43,31): error TS1005: ',' expected.
+src/services/auth.service.ts(43,38): error TS1005: ';' expected.
+src/services/auth.service.ts(44,16): error TS1005: ',' expected.
+src/services/auth.service.ts(44,26): error TS1005: ';' expected.
+src/services/auth.service.ts(50,3): error TS1128: Declaration or statement expected.
+src/services/auth.service.ts(52,3): error TS1128: Declaration or statement expected.
+src/services/auth.service.ts(52,26): error TS1005: ',' expected.
+src/services/auth.service.ts(52,33): error TS1005: ';' expected.
+src/services/auth.service.ts(52,35): error TS1434: Unexpected keyword or identifier.
+src/services/auth.service.ts(60,3): error TS1128: Declaration or statement expected.
+src/services/auth.service.ts(60,32): error TS1005: ',' expected.
+src/services/auth.service.ts(60,44): error TS1005: ';' expected.
+src/services/auth.service.ts(60,46): error TS1434: Unexpected keyword or identifier.
+src/services/auth.service.ts(63,1): error TS1128: Declaration or statement expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(17,48): error TS1136: Property assignment expected.
+src/services/auth.service.ts(17,50): error TS1005: ',' expected.
+src/services/auth.service.ts(17,51): error TS1068: Unexpected token. A constructor, method, accessor, or property was expected.
+src/services/auth.service.ts(18,5): error TS1434: Unexpected keyword or identifier.
+src/services/auth.service.ts(18,12): error TS1068: Unexpected token. A constructor, method, accessor, or property was expected.
+src/services/auth.service.ts(19,19): error TS1144: '{' or ';' expected.
+src/services/auth.service.ts(26,3): error TS1128: Declaration or statement expected.
+src/services/auth.service.ts(28,3): error TS1128: Declaration or statement expected.
+src/services/auth.service.ts(28,10): error TS1434: Unexpected keyword or identifier.
+src/services/auth.service.ts(28,30): error TS1005: ',' expected.
+src/services/auth.service.ts(28,46): error TS1005: ';' expected.
+src/services/auth.service.ts(28,72): error TS1005: ',' expected.
+src/services/auth.service.ts(29,16): error TS1005: ',' expected.
+src/services/auth.service.ts(29,26): error TS1005: ';' expected.
+src/services/auth.service.ts(41,3): error TS1128: Declaration or statement expected.
+src/services/auth.service.ts(43,3): error TS1128: Declaration or statement expected.
+src/services/auth.service.ts(43,10): error TS1434: Unexpected keyword or identifier.
+src/services/auth.service.ts(43,31): error TS1005: ',' expected.
+src/services/auth.service.ts(43,38): error TS1005: ';' expected.
+src/services/auth.service.ts(44,16): error TS1005: ',' expected.
+src/services/auth.service.ts(44,26): error TS1005: ';' expected.
+src/services/auth.service.ts(50,3): error TS1128: Declaration or statement expected.
+src/services/auth.service.ts(52,3): error TS1128: Declaration or statement expected.
+src/services/auth.service.ts(52,26): error TS1005: ',' expected.
+src/services/auth.service.ts(52,33): error TS1005: ';' expected.
+src/services/auth.service.ts(52,35): error TS1434: Unexpected keyword or identifier.
+src/services/auth.service.ts(60,3): error TS1128: Declaration or statement expected.
+src/services/auth.service.ts(60,32): error TS1005: ',' expected.
+src/services/auth.service.ts(60,44): error TS1005: ';' expected.
+src/services/auth.service.ts(60,46): error TS1434: Unexpected keyword or identifier.
+src/services/auth.service.ts(63,1): error TS1128: Declaration or statement expected.
+
+    at createTSError (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:863:19)
+    at D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-12-08 14:23:43 error: [POST] /signup >> StatusCode:: 409, Message:: This phone 8029293343923 already exists
+2022-12-08 14:24:02 error: uncaughtException: notNull Violation: user.roleId cannot be null
+SequelizeValidationError: notNull Violation: user.roleId cannot be null
+    at InstanceValidator._validate (D:\repository\diplom\server\node_modules\sequelize\src\instance-validator.js:78:13)
+    at async InstanceValidator._validateAndRunHooks (D:\repository\diplom\server\node_modules\sequelize\src\instance-validator.js:111:7)
+    at async InstanceValidator.validate (D:\repository\diplom\server\node_modules\sequelize\src\instance-validator.js:93:12)
+    at async model.save (D:\repository\diplom\server\node_modules\sequelize\src\model.js:3996:7)
+    at async Function.create (D:\repository\diplom\server\node_modules\sequelize\src\model.js:2280:12)
+2022-12-08 14:25:43 error: uncaughtException: notNull Violation: user.roleId cannot be null
+SequelizeValidationError: notNull Violation: user.roleId cannot be null
+    at InstanceValidator._validate (D:\repository\diplom\server\node_modules\sequelize\src\instance-validator.js:78:13)
+    at async InstanceValidator._validateAndRunHooks (D:\repository\diplom\server\node_modules\sequelize\src\instance-validator.js:111:7)
+    at async InstanceValidator.validate (D:\repository\diplom\server\node_modules\sequelize\src\instance-validator.js:93:12)
+    at async model.save (D:\repository\diplom\server\node_modules\sequelize\src\model.js:3996:7)
+    at async Function.create (D:\repository\diplom\server\node_modules\sequelize\src\model.js:2280:12)
+2022-12-08 14:26:49 error: uncaughtException: notNull Violation: user.roleId cannot be null
+SequelizeValidationError: notNull Violation: user.roleId cannot be null
+    at InstanceValidator._validate (D:\repository\diplom\server\node_modules\sequelize\src\instance-validator.js:78:13)
+    at async InstanceValidator._validateAndRunHooks (D:\repository\diplom\server\node_modules\sequelize\src\instance-validator.js:111:7)
+    at async InstanceValidator.validate (D:\repository\diplom\server\node_modules\sequelize\src\instance-validator.js:93:12)
+    at async model.save (D:\repository\diplom\server\node_modules\sequelize\src\model.js:3996:7)
+    at async Function.create (D:\repository\diplom\server\node_modules\sequelize\src\model.js:2280:12)
+2022-12-08 14:29:31 error: [POST] /signup >> StatusCode:: 500, Message:: notNull Violation: user.roleId cannot be null
+2022-12-08 14:30:26 error: [POST] /signup >> StatusCode:: 500, Message:: notNull Violation: user.roleId cannot be null
+2022-12-08 14:30:45 error: [POST] /signup >> StatusCode:: 500, Message:: notNull Violation: user.roleId cannot be null
+2022-12-08 14:31:14 error: [POST] /signup >> StatusCode:: 500, Message:: Data too long for column 'phoneNumber' at row 1
+2022-12-08 14:31:23 error: [POST] /signup >> StatusCode:: 500, Message:: Data too long for column 'password' at row 1
+2022-12-08 14:31:56 error: [POST] /signup >> StatusCode:: 500, Message:: Check constraint 'chk_PhoneNumberTemplate' is violated.
+2022-12-08 14:32:31 error: [POST] /signup >> StatusCode:: 409, Message:: This phone (029)2699665 already exists
+2022-12-08 14:35:41 error: [GET] / >> StatusCode:: 500, Message:: Class constructor model cannot be invoked without 'new'
+2022-12-08 14:54:24 error: uncaughtException: next is not a function
+TypeError: next is not a function
+    at D:\repository\diplom\server\src\middlewares\role.middleware.ts:28:5
+    at Generator.next (<anonymous>)
+    at fulfilled (D:\repository\diplom\server\node_modules\tslib\tslib.js:115:62)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2022-12-08 14:55:07 error: uncaughtException: next is not a function
+TypeError: next is not a function
+    at D:\repository\diplom\server\src\middlewares\role.middleware.ts:29:5
+    at Generator.next (<anonymous>)
+    at fulfilled (D:\repository\diplom\server\node_modules\tslib\tslib.js:115:62)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2022-12-08 14:55:42 error: uncaughtException: next is not a function
+TypeError: next is not a function
+    at D:\repository\diplom\server\src\middlewares\role.middleware.ts:29:5
+    at Generator.next (<anonymous>)
+    at fulfilled (D:\repository\diplom\server\node_modules\tslib\tslib.js:115:62)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2022-12-08 14:56:48 error: uncaughtException: next is not a function
+TypeError: next is not a function
+    at D:\repository\diplom\server\src\middlewares\role.middleware.ts:29:5
+    at Generator.next (<anonymous>)
+    at fulfilled (D:\repository\diplom\server\node_modules\tslib\tslib.js:115:62)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2022-12-08 14:57:04 error: uncaughtException: next is not a function
+TypeError: next is not a function
+    at D:\repository\diplom\server\src\middlewares\role.middleware.ts:29:5
+    at Generator.next (<anonymous>)
+    at fulfilled (D:\repository\diplom\server\node_modules\tslib\tslib.js:115:62)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2022-12-08 14:57:29 error: uncaughtException: next is not a function
+TypeError: next is not a function
+    at D:\repository\diplom\server\src\middlewares\role.middleware.ts:29:5
+    at Generator.next (<anonymous>)
+    at fulfilled (D:\repository\diplom\server\node_modules\tslib\tslib.js:115:62)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2022-12-08 15:03:42 error: [GET] / >> StatusCode:: 231, Message:: 32123
+2022-12-08 15:06:44 error: [GET] / >> StatusCode:: 231, Message:: 32123
+2022-12-08 15:08:02 error: [GET] / >> StatusCode:: 401, Message:: No access permissions
+2022-12-08 15:08:27 error: [GET] / >> StatusCode:: 401, Message:: No access permissions
+2022-12-08 15:08:31 error: [GET] / >> StatusCode:: 401, Message:: No access permissions
+2022-12-08 15:08:49 error: [GET] / >> StatusCode:: 401, Message:: No access permissions
+2022-12-08 15:09:20 error: [GET] / >> StatusCode:: 401, Message:: No access permissions
+2022-12-08 15:10:17 error: [GET] / >> StatusCode:: 409, Message:: Permissions not found
+2022-12-08 15:10:24 error: [GET] / >> StatusCode:: 401, Message:: No access permissions
+2022-12-08 15:10:51 error: [GET] / >> StatusCode:: 401, Message:: No access permissions
+2022-12-08 15:25:11 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/middlewares/role.middleware.ts(10,11): error TS1003: Identifier expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/middlewares/role.middleware.ts(10,11): error TS1003: Identifier expected.
+
+    at createTSError (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:863:19)
+    at D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-12-08 16:43:06 error: [POST] /login >> StatusCode:: 400, Message:: name should not be empty, surname should not be empty, middleName should not be empty
+2022-12-08 16:43:49 error: [POST] /login >> StatusCode:: 500, Message:: this.users.find is not a function
+2022-12-08 16:44:01 error: [POST] /login >> StatusCode:: 500, Message:: data and hash arguments required
+2022-12-08 16:44:02 error: uncaughtException: The argument passed to findOne must be an options object, use findByPk if you wish to pass a single primary key value
+Error: The argument passed to findOne must be an options object, use findByPk if you wish to pass a single primary key value
+    at Function.findOne (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1964:13)
+    at AuthService.<anonymous> (D:\repository\diplom\server\src\services\auth.service.ts:32:39)
+    at Generator.next (<anonymous>)
+    at D:\repository\diplom\server\node_modules\tslib\tslib.js:118:75
+    at new Promise (<anonymous>)
+    at Object.__awaiter (D:\repository\diplom\server\node_modules\tslib\tslib.js:114:16)
+    at AuthService.login (D:\repository\diplom\server\src\services\auth.service.ts:30:24)
+    at AuthController.<anonymous> (D:\repository\diplom\server\src\controllers\auth.controller.ts:24:57)
+    at Generator.next (<anonymous>)
+    at D:\repository\diplom\server\node_modules\tslib\tslib.js:118:75
+2022-12-08 16:44:52 error: [POST] /login >> StatusCode:: 500, Message:: data and hash arguments required
+2022-12-08 16:45:21 error: [POST] /login >> StatusCode:: 500, Message:: data and hash arguments required
+2022-12-08 16:47:13 error: [POST] /login >> StatusCode:: 500, Message:: data and hash arguments required

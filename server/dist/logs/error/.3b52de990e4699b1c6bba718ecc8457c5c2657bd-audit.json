@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "D:\\repository\\diplom\\server\\dist\\logs\\error\\.3b52de990e4699b1c6bba718ecc8457c5c2657bd-audit.json",
+    "files": [
+        {
+            "date": 1670939344777,
+            "name": "D:\\repository\\diplom\\server\\dist\\logs\\error\\2022-12-13.log",
+            "hash": "245e172865d99a1da3b1bf1f8e5a30b09b384c24a854d7c2f51036af00b8892d"
+        }
+    ],
+    "hashType": "sha256"
+}

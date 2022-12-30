@@ -1,0 +1,467 @@
+2022-12-09 08:45:39 info: =================================
+2022-12-09 08:45:39 info: ======= ENV: development =======
+2022-12-09 08:45:39 info: 🚀 App listening on the port 8080
+2022-12-09 08:45:39 info: =================================
+2022-12-09 08:45:54 info: [0mPOST /login [32m200[0m 176.289 ms - 140[0m
+2022-12-09 08:46:42 info: =================================
+2022-12-09 08:46:42 info: ======= ENV: development =======
+2022-12-09 08:46:42 info: 🚀 App listening on the port 8080
+2022-12-09 08:46:42 info: =================================
+2022-12-09 08:46:44 info: [0mPOST /login [32m200[0m 106.922 ms - 140[0m
+2022-12-09 08:48:25 info: =================================
+2022-12-09 08:48:25 info: ======= ENV: development =======
+2022-12-09 08:48:25 info: 🚀 App listening on the port 8080
+2022-12-09 08:48:25 info: =================================
+2022-12-09 08:48:26 info: [0mPOST /login [32m200[0m 140.867 ms - 140[0m
+2022-12-09 08:52:56 info: [0mGET / [0m-[0m - ms - -[0m
+2022-12-09 08:54:59 info: =================================
+2022-12-09 08:54:59 info: ======= ENV: development =======
+2022-12-09 08:54:59 info: 🚀 App listening on the port 8080
+2022-12-09 08:54:59 info: =================================
+2022-12-09 08:54:59 info: [0mGET / [32m200[0m 11.999 ms - 6[0m
+2022-12-09 08:54:59 info: [0mGET / [36m304[0m 2.166 ms - -[0m
+2022-12-09 08:55:06 info: =================================
+2022-12-09 08:55:06 info: ======= ENV: development =======
+2022-12-09 08:55:06 info: 🚀 App listening on the port 8080
+2022-12-09 08:55:06 info: =================================
+2022-12-09 08:55:22 info: =================================
+2022-12-09 08:55:22 info: ======= ENV: development =======
+2022-12-09 08:55:22 info: 🚀 App listening on the port 8080
+2022-12-09 08:55:22 info: =================================
+2022-12-09 08:55:32 info: [0mGET / [32m200[0m 8.983 ms - 24[0m
+2022-12-09 08:55:39 info: [0mGET / [36m304[0m 1.989 ms - -[0m
+2022-12-09 08:55:50 info: [0mGET / [36m304[0m 1.284 ms - -[0m
+2022-12-09 08:55:53 info: [0mGET / [36m304[0m 1.718 ms - -[0m
+2022-12-09 08:55:53 info: [0mGET / [36m304[0m 1.227 ms - -[0m
+2022-12-09 08:56:00 info: [0mGET / [36m304[0m 0.871 ms - -[0m
+2022-12-09 08:56:03 info: [0mGET / [36m304[0m 1.627 ms - -[0m
+2022-12-09 08:56:03 info: [0mGET / [36m304[0m 0.815 ms - -[0m
+2022-12-09 08:59:27 error: [POST] /login >> StatusCode:: 400, Message:: phoneNumber should not be empty, password must be a string
+2022-12-09 08:59:27 info: [0mPOST /login [33m400[0m 24.580 ms - 72[0m
+2022-12-09 08:59:27 error: [POST] /login >> StatusCode:: 400, Message:: phoneNumber should not be empty, password must be a string
+2022-12-09 08:59:27 info: [0mPOST /login [33m400[0m 3.714 ms - 72[0m
+2022-12-09 09:01:30 error: [POST] /login >> StatusCode:: 400, Message:: phoneNumber should not be empty, password must be a string
+2022-12-09 09:01:30 info: [0mPOST /login [33m400[0m 2.936 ms - 72[0m
+2022-12-09 09:02:03 error: [POST] /login >> StatusCode:: 400, Message:: phoneNumber should not be empty, password must be a string
+2022-12-09 09:02:03 info: [0mPOST /login [33m400[0m 2.437 ms - 72[0m
+2022-12-09 09:02:48 error: [POST] /login >> StatusCode:: 400, Message:: phoneNumber should not be empty, password must be a string
+2022-12-09 09:02:48 info: [0mPOST /login [33m400[0m 3.243 ms - 72[0m
+2022-12-09 09:04:00 info: [0mOPTIONS /login [32m204[0m 0.882 ms - 0[0m
+2022-12-09 09:04:00 error: [POST] /login >> StatusCode:: 400, Message:: phoneNumber should not be empty
+2022-12-09 09:04:00 info: [0mPOST /login [33m400[0m 26.651 ms - 45[0m
+2022-12-09 09:04:05 error: [POST] /login >> StatusCode:: 409, Message:: Password is not matching
+2022-12-09 09:04:05 info: [0mPOST /login [33m409[0m 118.555 ms - 38[0m
+2022-12-09 09:04:18 info: [0mOPTIONS /login [32m204[0m 0.686 ms - 0[0m
+2022-12-09 09:04:19 info: [0mPOST /login [32m200[0m 94.566 ms - 140[0m
+2022-12-09 09:04:26 info: [0mOPTIONS /login [32m204[0m 0.477 ms - 0[0m
+2022-12-09 09:04:26 info: [0mOPTIONS /login [32m204[0m 0.913 ms - 0[0m
+2022-12-09 09:04:26 info: [0mPOST /login [32m200[0m 128.125 ms - 140[0m
+2022-12-09 09:04:26 info: [0mPOST /login [32m200[0m 134.263 ms - 140[0m
+2022-12-09 09:04:39 info: [0mOPTIONS /login [32m204[0m 0.552 ms - 0[0m
+2022-12-09 09:04:39 info: [0mPOST /login [32m200[0m 118.813 ms - 140[0m
+2022-12-09 09:04:39 info: [0mPOST /login [32m200[0m 132.402 ms - 140[0m
+2022-12-09 09:05:41 info: [0mOPTIONS /login [32m204[0m 0.424 ms - 0[0m
+2022-12-09 09:05:41 info: [0mPOST /login [32m200[0m 95.605 ms - 140[0m
+2022-12-09 09:05:47 info: [0mOPTIONS /login [32m204[0m 0.444 ms - 0[0m
+2022-12-09 09:05:47 info: [0mPOST /login [32m200[0m 128.936 ms - 140[0m
+2022-12-09 09:05:47 info: [0mPOST /login [32m200[0m 138.744 ms - 140[0m
+2022-12-09 09:07:02 info: [0mOPTIONS /login [32m204[0m 0.437 ms - 0[0m
+2022-12-09 09:07:02 info: [0mOPTIONS /login [32m204[0m 1.017 ms - 0[0m
+2022-12-09 09:09:04 info: [0mOPTIONS /login [32m204[0m 0.605 ms - 0[0m
+2022-12-09 09:09:04 info: [0mPOST /login [32m200[0m 99.210 ms - 140[0m
+2022-12-09 09:10:08 info: [0mOPTIONS /login [32m204[0m 0.405 ms - 0[0m
+2022-12-09 09:10:08 info: [0mPOST /login [32m200[0m 84.771 ms - 140[0m
+2022-12-09 09:10:54 info: [0mOPTIONS /login [32m204[0m 0.398 ms - 0[0m
+2022-12-09 09:10:55 info: [0mPOST /login [32m200[0m 89.905 ms - 140[0m
+2022-12-09 09:10:59 info: [0mPOST /login [32m200[0m 107.849 ms - 140[0m
+2022-12-09 09:10:59 info: [0mPOST /login [32m200[0m 112.307 ms - 140[0m
+2022-12-09 09:14:28 info: [0mOPTIONS /login [32m204[0m 0.467 ms - 0[0m
+2022-12-09 09:14:28 info: [0mPOST /login [32m200[0m 84.549 ms - 140[0m
+2022-12-09 09:14:41 info: [0mOPTIONS /login [32m204[0m 0.436 ms - 0[0m
+2022-12-09 09:14:41 info: [0mPOST /login [32m200[0m 97.246 ms - 140[0m
+2022-12-09 09:15:02 info: [0mOPTIONS /login [32m204[0m 0.414 ms - 0[0m
+2022-12-09 09:15:08 info: [0mOPTIONS /login [32m204[0m 0.408 ms - 0[0m
+2022-12-09 09:15:08 info: [0mPOST /login [32m200[0m 85.979 ms - 140[0m
+2022-12-09 09:16:36 info: [0mOPTIONS /login [32m204[0m 0.405 ms - 0[0m
+2022-12-09 09:16:36 info: [0mPOST /login [32m200[0m 87.097 ms - 140[0m
+2022-12-09 09:16:59 info: [0mOPTIONS /login [32m204[0m 0.408 ms - 0[0m
+2022-12-09 09:17:02 info: [0mOPTIONS /login [32m204[0m 0.362 ms - 0[0m
+2022-12-09 09:17:02 info: [0mOPTIONS /login [32m204[0m 0.526 ms - 0[0m
+2022-12-09 09:20:19 info: [0mOPTIONS /login [32m204[0m 0.388 ms - 0[0m
+2022-12-09 09:22:01 info: =================================
+2022-12-09 09:22:01 info: ======= ENV: development =======
+2022-12-09 09:22:01 info: 🚀 App listening on the port 8080
+2022-12-09 09:22:01 info: =================================
+2022-12-09 09:22:07 info: [0mOPTIONS /login [32m204[0m 6.408 ms - 0[0m
+2022-12-09 09:22:07 info: [0mOPTIONS /login [32m204[0m 0.856 ms - 0[0m
+2022-12-09 09:22:07 info: [0mPOST /login [32m200[0m 166.468 ms - 140[0m
+2022-12-09 09:22:07 info: [0mPOST /login [32m200[0m 242.573 ms - 140[0m
+2022-12-09 09:22:43 info: [0mOPTIONS /logout [32m204[0m 0.770 ms - 0[0m
+2022-12-09 09:22:43 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 09:22:43 info: [0mPOST /logout [33m400[0m 23.895 ms - 31[0m
+2022-12-09 09:22:49 info: [0mOPTIONS /logout [32m204[0m 0.348 ms - 0[0m
+2022-12-09 09:22:49 info: [0mOPTIONS /logout [32m204[0m 0.470 ms - 0[0m
+2022-12-09 09:22:49 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 09:22:49 info: [0mPOST /logout [33m400[0m 8.039 ms - 31[0m
+2022-12-09 09:22:49 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 09:22:49 info: [0mPOST /logout [33m400[0m 6.030 ms - 31[0m
+2022-12-09 09:26:50 info: =================================
+2022-12-09 09:26:50 info: ======= ENV: development =======
+2022-12-09 09:26:50 info: 🚀 App listening on the port 8080
+2022-12-09 09:26:50 info: =================================
+2022-12-09 09:27:01 info: =================================
+2022-12-09 09:27:01 info: ======= ENV: development =======
+2022-12-09 09:27:01 info: 🚀 App listening on the port 8080
+2022-12-09 09:27:01 info: =================================
+2022-12-09 09:27:04 info: [0mOPTIONS /logout [32m204[0m 5.599 ms - 0[0m
+2022-12-09 09:27:04 info: [0mOPTIONS /logout [32m204[0m 0.846 ms - 0[0m
+2022-12-09 09:27:04 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 09:27:04 info: [0mPOST /logout [33m400[0m 64.093 ms - 31[0m
+2022-12-09 09:27:04 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 09:27:04 info: [0mPOST /logout [33m400[0m 7.923 ms - 31[0m
+2022-12-09 09:27:28 info: =================================
+2022-12-09 09:27:28 info: ======= ENV: development =======
+2022-12-09 09:27:28 info: 🚀 App listening on the port 8080
+2022-12-09 09:27:28 info: =================================
+2022-12-09 09:28:01 info: [0mOPTIONS /logout [32m204[0m 4.713 ms - 0[0m
+2022-12-09 09:28:01 info: [0mOPTIONS /logout [32m204[0m 0.577 ms - 0[0m
+2022-12-09 09:28:01 info: [0mPOST /logout [32m200[0m 46.627 ms - 32[0m
+2022-12-09 09:28:01 info: [0mPOST /logout [32m200[0m 18.476 ms - 32[0m
+2022-12-09 09:29:00 info: =================================
+2022-12-09 09:29:00 info: ======= ENV: development =======
+2022-12-09 09:29:00 info: 🚀 App listening on the port 8080
+2022-12-09 09:29:00 info: =================================
+2022-12-09 09:29:05 info: =================================
+2022-12-09 09:29:05 info: ======= ENV: development =======
+2022-12-09 09:29:05 info: 🚀 App listening on the port 8080
+2022-12-09 09:29:05 info: =================================
+2022-12-09 09:29:06 info: [0mOPTIONS /logout [32m204[0m 5.699 ms - 0[0m
+2022-12-09 09:29:06 info: [0mOPTIONS /logout [32m204[0m 0.822 ms - 0[0m
+2022-12-09 09:29:06 info: [0mPOST /logout [32m200[0m 59.839 ms - 30[0m
+2022-12-09 09:29:06 info: [0mPOST /logout [32m200[0m 6.527 ms - 30[0m
+2022-12-09 09:29:24 info: =================================
+2022-12-09 09:29:24 info: ======= ENV: development =======
+2022-12-09 09:29:24 info: 🚀 App listening on the port 8080
+2022-12-09 09:29:24 info: =================================
+2022-12-09 09:29:25 info: [0mOPTIONS /logout [32m204[0m 3.645 ms - 0[0m
+2022-12-09 09:29:25 info: [0mOPTIONS /logout [32m204[0m 0.688 ms - 0[0m
+2022-12-09 09:29:25 error: [POST] /logout >> StatusCode:: 409, Message:: User doesn't exist
+2022-12-09 09:29:25 info: [0mPOST /logout [33m409[0m 38.071 ms - 32[0m
+2022-12-09 09:29:25 error: [POST] /logout >> StatusCode:: 409, Message:: User doesn't exist
+2022-12-09 09:29:25 info: [0mPOST /logout [33m409[0m 21.945 ms - 32[0m
+2022-12-09 09:29:26 error: [POST] /logout >> StatusCode:: 409, Message:: User doesn't exist
+2022-12-09 09:29:26 info: [0mPOST /logout [33m409[0m 9.718 ms - 32[0m
+2022-12-09 09:29:26 error: [POST] /logout >> StatusCode:: 409, Message:: User doesn't exist
+2022-12-09 09:29:26 info: [0mPOST /logout [33m409[0m 9.740 ms - 32[0m
+2022-12-09 09:29:57 info: =================================
+2022-12-09 09:29:57 info: ======= ENV: development =======
+2022-12-09 09:29:57 info: 🚀 App listening on the port 8080
+2022-12-09 09:29:57 info: =================================
+2022-12-09 09:29:57 info: [0mOPTIONS /logout [32m204[0m 5.693 ms - 0[0m
+2022-12-09 09:29:57 info: [0mOPTIONS /logout [32m204[0m 0.984 ms - 0[0m
+2022-12-09 09:29:57 info: [0mPOST /logout [32m200[0m 71.383 ms - 700[0m
+2022-12-09 09:29:57 info: [0mPOST /logout [32m200[0m 31.065 ms - 700[0m
+2022-12-09 09:30:12 info: =================================
+2022-12-09 09:30:12 info: ======= ENV: development =======
+2022-12-09 09:30:12 info: 🚀 App listening on the port 8080
+2022-12-09 09:30:12 info: =================================
+2022-12-09 09:30:15 info: [0mOPTIONS /logout [32m204[0m 5.242 ms - 0[0m
+2022-12-09 09:30:15 info: [0mOPTIONS /logout [32m204[0m 0.646 ms - 0[0m
+2022-12-09 09:30:15 info: [0mPOST /logout [32m200[0m 62.023 ms - 700[0m
+2022-12-09 09:30:15 info: [0mPOST /logout [32m200[0m 33.410 ms - 700[0m
+2022-12-09 09:30:32 info: =================================
+2022-12-09 09:30:32 info: ======= ENV: development =======
+2022-12-09 09:30:32 info: 🚀 App listening on the port 8080
+2022-12-09 09:30:32 info: =================================
+2022-12-09 09:30:32 info: [0mOPTIONS /logout [32m204[0m 5.799 ms - 0[0m
+2022-12-09 09:30:32 info: [0mOPTIONS /logout [32m204[0m 0.741 ms - 0[0m
+2022-12-09 09:30:32 info: [0mPOST /logout [32m200[0m 56.432 ms - 700[0m
+2022-12-09 09:30:32 info: [0mPOST /logout [32m200[0m 22.553 ms - 700[0m
+2022-12-09 09:31:49 info: =================================
+2022-12-09 09:31:49 info: ======= ENV: development =======
+2022-12-09 09:31:49 info: 🚀 App listening on the port 8080
+2022-12-09 09:31:49 info: =================================
+2022-12-09 09:31:49 info: [0mOPTIONS /logout [32m204[0m 4.812 ms - 0[0m
+2022-12-09 09:31:49 info: [0mOPTIONS /logout [32m204[0m 0.511 ms - 0[0m
+2022-12-09 09:31:49 info: [0mPOST /logout [32m200[0m 25.322 ms - 700[0m
+2022-12-09 09:31:49 info: [0mPOST /logout [32m200[0m 53.868 ms - 700[0m
+2022-12-09 09:32:35 info: =================================
+2022-12-09 09:32:35 info: ======= ENV: development =======
+2022-12-09 09:32:35 info: 🚀 App listening on the port 8080
+2022-12-09 09:32:35 info: =================================
+2022-12-09 09:32:37 info: [0mOPTIONS /logout [32m204[0m 5.390 ms - 0[0m
+2022-12-09 09:32:37 info: [0mOPTIONS /logout [32m204[0m 0.722 ms - 0[0m
+2022-12-09 09:32:37 info: [0mPOST /logout [32m200[0m 59.220 ms - 132[0m
+2022-12-09 09:32:37 info: [0mPOST /logout [32m200[0m 33.179 ms - 132[0m
+2022-12-09 09:34:02 info: =================================
+2022-12-09 09:34:02 info: ======= ENV: development =======
+2022-12-09 09:34:02 info: 🚀 App listening on the port 8080
+2022-12-09 09:34:02 info: =================================
+2022-12-09 09:34:02 info: [0mOPTIONS /logout [32m204[0m 3.528 ms - 0[0m
+2022-12-09 09:34:02 info: [0mOPTIONS /logout [32m204[0m 0.593 ms - 0[0m
+2022-12-09 09:34:02 info: [0mPOST /logout [32m200[0m 62.828 ms - 700[0m
+2022-12-09 09:34:02 info: [0mPOST /logout [32m200[0m 44.956 ms - 700[0m
+2022-12-09 09:36:24 info: =================================
+2022-12-09 09:36:24 info: ======= ENV: development =======
+2022-12-09 09:36:24 info: 🚀 App listening on the port 8080
+2022-12-09 09:36:24 info: =================================
+2022-12-09 09:36:44 info: =================================
+2022-12-09 09:36:44 info: ======= ENV: development =======
+2022-12-09 09:36:44 info: 🚀 App listening on the port 8080
+2022-12-09 09:36:44 info: =================================
+2022-12-09 09:36:50 info: [0mOPTIONS /login [32m204[0m 5.018 ms - 0[0m
+2022-12-09 09:36:50 info: [0mPOST /login [32m200[0m 132.164 ms - 699[0m
+2022-12-09 09:38:54 info: =================================
+2022-12-09 09:38:54 info: ======= ENV: development =======
+2022-12-09 09:38:54 info: 🚀 App listening on the port 8080
+2022-12-09 09:38:54 info: =================================
+2022-12-09 09:38:56 info: [0mOPTIONS /login [32m204[0m 5.463 ms - 0[0m
+2022-12-09 09:38:56 info: [0mOPTIONS /login [32m204[0m 0.733 ms - 0[0m
+2022-12-09 09:38:56 info: [0mPOST /login [32m200[0m 157.271 ms - 237[0m
+2022-12-09 09:38:56 info: [0mPOST /login [32m200[0m 126.648 ms - 237[0m
+2022-12-09 09:39:40 info: =================================
+2022-12-09 09:39:40 info: ======= ENV: development =======
+2022-12-09 09:39:40 info: 🚀 App listening on the port 8080
+2022-12-09 09:39:40 info: =================================
+2022-12-09 09:41:29 info: =================================
+2022-12-09 09:41:29 info: ======= ENV: development =======
+2022-12-09 09:41:29 info: 🚀 App listening on the port 8080
+2022-12-09 09:41:29 info: =================================
+2022-12-09 09:48:44 info: =================================
+2022-12-09 09:48:44 info: ======= ENV: development =======
+2022-12-09 09:48:44 info: 🚀 App listening on the port 8080
+2022-12-09 09:48:44 info: =================================
+2022-12-09 09:48:50 info: [0mOPTIONS /login [32m204[0m 5.134 ms - 0[0m
+2022-12-09 09:48:50 info: [0mOPTIONS /login [32m204[0m 0.692 ms - 0[0m
+2022-12-09 09:48:50 info: [0mPOST /login [32m200[0m 172.028 ms - 237[0m
+2022-12-09 09:48:50 info: [0mPOST /login [32m200[0m 128.645 ms - 237[0m
+2022-12-09 09:50:36 info: =================================
+2022-12-09 09:50:36 info: ======= ENV: development =======
+2022-12-09 09:50:36 info: 🚀 App listening on the port 8080
+2022-12-09 09:50:36 info: =================================
+2022-12-09 09:51:21 info: =================================
+2022-12-09 09:51:21 info: ======= ENV: development =======
+2022-12-09 09:51:21 info: 🚀 App listening on the port 8080
+2022-12-09 09:51:21 info: =================================
+2022-12-09 09:51:21 info: [0mOPTIONS /login [32m204[0m 5.298 ms - 0[0m
+2022-12-09 09:51:21 info: [0mOPTIONS /login [32m204[0m 0.737 ms - 0[0m
+2022-12-09 09:51:21 info: [0mPOST /login [32m200[0m 108.730 ms - 224[0m
+2022-12-09 09:51:21 info: [0mPOST /login [32m200[0m 161.748 ms - 224[0m
+2022-12-09 09:51:50 info: =================================
+2022-12-09 09:51:50 info: ======= ENV: development =======
+2022-12-09 09:51:50 info: 🚀 App listening on the port 8080
+2022-12-09 09:51:50 info: =================================
+2022-12-09 09:51:50 info: [0mOPTIONS /login [32m204[0m 3.201 ms - 0[0m
+2022-12-09 09:51:50 info: [0mOPTIONS /login [32m204[0m 0.446 ms - 0[0m
+2022-12-09 09:51:50 info: [0mPOST /login [32m200[0m 124.454 ms - 233[0m
+2022-12-09 09:51:50 info: [0mPOST /login [32m200[0m 159.179 ms - 233[0m
+2022-12-09 09:52:08 info: =================================
+2022-12-09 09:52:08 info: ======= ENV: development =======
+2022-12-09 09:52:08 info: 🚀 App listening on the port 8080
+2022-12-09 09:52:08 info: =================================
+2022-12-09 09:52:27 info: =================================
+2022-12-09 09:52:27 info: ======= ENV: development =======
+2022-12-09 09:52:27 info: 🚀 App listening on the port 8080
+2022-12-09 09:52:27 info: =================================
+2022-12-09 09:55:00 info: =================================
+2022-12-09 09:55:00 info: ======= ENV: development =======
+2022-12-09 09:55:00 info: 🚀 App listening on the port 8080
+2022-12-09 09:55:00 info: =================================
+2022-12-09 09:55:21 info: [0mPOST /signup [32m201[0m 124.679 ms - 225[0m
+2022-12-09 09:56:27 info: =================================
+2022-12-09 09:56:27 info: ======= ENV: development =======
+2022-12-09 09:56:27 info: 🚀 App listening on the port 8080
+2022-12-09 09:56:27 info: =================================
+2022-12-09 09:56:30 error: [POST] /signup >> StatusCode:: 409, Message:: This phone (029)2699645 already exists
+2022-12-09 09:56:30 info: [0mPOST /signup [33m409[0m 48.522 ms - 52[0m
+2022-12-09 09:56:35 info: [0mPOST /signup [32m201[0m 93.665 ms - 234[0m
+2022-12-09 09:58:53 info: [0mOPTIONS /login [32m204[0m 1.419 ms - 0[0m
+2022-12-09 09:58:53 info: [0mOPTIONS /login [32m204[0m 0.729 ms - 0[0m
+2022-12-09 09:58:53 info: [0mPOST /login [32m200[0m 134.498 ms - 233[0m
+2022-12-09 09:58:53 info: [0mPOST /login [32m200[0m 133.710 ms - 233[0m
+2022-12-09 10:00:35 info: =================================
+2022-12-09 10:00:35 info: ======= ENV: development =======
+2022-12-09 10:00:35 info: 🚀 App listening on the port 8080
+2022-12-09 10:00:35 info: =================================
+2022-12-09 10:00:35 info: [0mOPTIONS /login [32m204[0m 5.063 ms - 0[0m
+2022-12-09 10:00:35 info: [0mOPTIONS /login [32m204[0m 0.819 ms - 0[0m
+2022-12-09 10:00:35 info: [0mPOST /login [32m200[0m 188.573 ms - 256[0m
+2022-12-09 10:00:35 info: [0mPOST /login [32m200[0m 145.956 ms - 256[0m
+2022-12-09 10:02:01 info: =================================
+2022-12-09 10:02:01 info: ======= ENV: development =======
+2022-12-09 10:02:01 info: 🚀 App listening on the port 8080
+2022-12-09 10:02:01 info: =================================
+2022-12-09 10:02:01 info: [0mOPTIONS /login [32m204[0m 3.142 ms - 0[0m
+2022-12-09 10:02:01 info: [0mOPTIONS /login [32m204[0m 0.557 ms - 0[0m
+2022-12-09 10:02:01 info: [0mPOST /login [32m200[0m 134.741 ms - 256[0m
+2022-12-09 10:02:01 info: [0mPOST /login [32m200[0m 109.649 ms - 256[0m
+2022-12-09 10:02:33 info: =================================
+2022-12-09 10:02:33 info: ======= ENV: development =======
+2022-12-09 10:02:33 info: 🚀 App listening on the port 8080
+2022-12-09 10:02:33 info: =================================
+2022-12-09 10:03:16 info: =================================
+2022-12-09 10:03:16 info: ======= ENV: development =======
+2022-12-09 10:03:16 info: 🚀 App listening on the port 8080
+2022-12-09 10:03:16 info: =================================
+2022-12-09 10:03:27 info: =================================
+2022-12-09 10:03:27 info: ======= ENV: development =======
+2022-12-09 10:03:27 info: 🚀 App listening on the port 8080
+2022-12-09 10:03:27 info: =================================
+2022-12-09 10:03:46 info: =================================
+2022-12-09 10:03:46 info: ======= ENV: development =======
+2022-12-09 10:03:46 info: 🚀 App listening on the port 8080
+2022-12-09 10:03:46 info: =================================
+2022-12-09 10:03:57 info: [0mOPTIONS /login [32m204[0m 5.014 ms - 0[0m
+2022-12-09 10:03:57 info: [0mOPTIONS /login [32m204[0m 0.854 ms - 0[0m
+2022-12-09 10:03:57 info: [0mPOST /login [32m200[0m 181.461 ms - 233[0m
+2022-12-09 10:03:57 info: [0mPOST /login [32m200[0m 129.251 ms - 233[0m
+2022-12-09 10:05:57 info: [0mOPTIONS /logout [32m204[0m 0.767 ms - 0[0m
+2022-12-09 10:05:57 info: [0mPOST /logout [32m200[0m 11.110 ms - 238[0m
+2022-12-09 10:06:55 info: =================================
+2022-12-09 10:06:55 info: ======= ENV: development =======
+2022-12-09 10:06:55 info: 🚀 App listening on the port 8080
+2022-12-09 10:06:55 info: =================================
+2022-12-09 10:06:55 info: [0mOPTIONS /logout [32m204[0m 3.782 ms - 0[0m
+2022-12-09 10:06:55 info: [0mOPTIONS /logout [32m204[0m 0.455 ms - 0[0m
+2022-12-09 10:06:55 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-09 10:06:55 info: [0mPOST /logout [33m404[0m 28.232 ms - 42[0m
+2022-12-09 10:06:55 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-09 10:06:55 info: [0mPOST /logout [33m404[0m 5.536 ms - 42[0m
+2022-12-09 10:07:25 info: =================================
+2022-12-09 10:07:25 info: ======= ENV: development =======
+2022-12-09 10:07:25 info: 🚀 App listening on the port 8080
+2022-12-09 10:07:25 info: =================================
+2022-12-09 10:08:33 info: =================================
+2022-12-09 10:08:33 info: ======= ENV: development =======
+2022-12-09 10:08:33 info: 🚀 App listening on the port 8080
+2022-12-09 10:08:33 info: =================================
+2022-12-09 10:08:43 info: [0mOPTIONS /logout [32m204[0m 5.452 ms - 0[0m
+2022-12-09 10:08:43 info: [0mOPTIONS /logout [32m204[0m 0.875 ms - 0[0m
+2022-12-09 10:08:43 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-09 10:08:43 info: [0mPOST /logout [33m404[0m 47.275 ms - 42[0m
+2022-12-09 10:08:43 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-09 10:08:43 info: [0mPOST /logout [33m404[0m 7.158 ms - 42[0m
+2022-12-09 10:09:02 info: [0mOPTIONS /logout [32m204[0m 0.767 ms - 0[0m
+2022-12-09 10:09:02 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-09 10:09:02 info: [0mPOST /logout [33m404[0m 3.180 ms - 42[0m
+2022-12-09 10:09:05 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-09 10:09:05 info: [0mPOST /logout [33m404[0m 4.686 ms - 42[0m
+2022-12-09 10:09:05 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-09 10:09:05 info: [0mPOST /logout [33m404[0m 3.434 ms - 42[0m
+2022-12-09 10:09:38 info: [0mOPTIONS /login [32m204[0m 0.522 ms - 0[0m
+2022-12-09 10:09:38 info: [0mPOST /login [32m200[0m 104.445 ms - 233[0m
+2022-12-09 10:09:42 info: [0mPOST /login [32m200[0m 127.299 ms - 233[0m
+2022-12-09 10:09:42 info: [0mPOST /login [32m200[0m 125.412 ms - 233[0m
+2022-12-09 10:09:48 info: [0mOPTIONS /logout [32m204[0m 1.070 ms - 0[0m
+2022-12-09 10:09:48 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:09:48 info: [0mPOST /logout [33m400[0m 11.493 ms - 31[0m
+2022-12-09 10:09:52 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:09:52 info: [0mPOST /logout [33m400[0m 5.851 ms - 31[0m
+2022-12-09 10:09:52 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:09:52 info: [0mPOST /logout [33m400[0m 5.398 ms - 31[0m
+2022-12-09 10:11:26 info: =================================
+2022-12-09 10:11:26 info: ======= ENV: development =======
+2022-12-09 10:11:26 info: 🚀 App listening on the port 8080
+2022-12-09 10:11:26 info: =================================
+2022-12-09 10:11:33 info: [0mOPTIONS /logout [32m204[0m 5.393 ms - 0[0m
+2022-12-09 10:11:33 info: [0mOPTIONS /logout [32m204[0m 0.695 ms - 0[0m
+2022-12-09 10:11:33 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:11:34 info: [0mPOST /logout [33m400[0m 69.062 ms - 31[0m
+2022-12-09 10:11:34 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:11:34 info: [0mPOST /logout [33m400[0m 13.134 ms - 31[0m
+2022-12-09 10:11:48 info: =================================
+2022-12-09 10:11:48 info: ======= ENV: development =======
+2022-12-09 10:11:48 info: 🚀 App listening on the port 8080
+2022-12-09 10:11:48 info: =================================
+2022-12-09 10:12:09 info: =================================
+2022-12-09 10:12:09 info: ======= ENV: development =======
+2022-12-09 10:12:09 info: 🚀 App listening on the port 8080
+2022-12-09 10:12:09 info: =================================
+2022-12-09 10:12:12 info: [0mOPTIONS /logout [32m204[0m 5.564 ms - 0[0m
+2022-12-09 10:12:12 info: [0mOPTIONS /logout [32m204[0m 0.775 ms - 0[0m
+2022-12-09 10:12:12 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:12:12 info: [0mPOST /logout [33m400[0m 68.635 ms - 31[0m
+2022-12-09 10:12:12 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:12:12 info: [0mPOST /logout [33m400[0m 12.687 ms - 31[0m
+2022-12-09 10:12:42 info: =================================
+2022-12-09 10:12:42 info: ======= ENV: development =======
+2022-12-09 10:12:42 info: 🚀 App listening on the port 8080
+2022-12-09 10:12:42 info: =================================
+2022-12-09 10:12:42 info: [0mOPTIONS /logout [32m204[0m 4.626 ms - 0[0m
+2022-12-09 10:12:42 info: [0mOPTIONS /logout [32m204[0m 0.627 ms - 0[0m
+2022-12-09 10:12:42 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:12:42 info: [0mPOST /logout [33m400[0m 49.424 ms - 31[0m
+2022-12-09 10:12:42 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:12:42 info: [0mPOST /logout [33m400[0m 8.552 ms - 31[0m
+2022-12-09 10:12:46 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:12:46 info: [0mPOST /logout [33m400[0m 6.691 ms - 31[0m
+2022-12-09 10:12:46 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:12:46 info: [0mPOST /logout [33m400[0m 5.122 ms - 31[0m
+2022-12-09 10:13:11 info: =================================
+2022-12-09 10:13:11 info: ======= ENV: development =======
+2022-12-09 10:13:11 info: 🚀 App listening on the port 8080
+2022-12-09 10:13:11 info: =================================
+2022-12-09 10:13:19 info: =================================
+2022-12-09 10:13:19 info: ======= ENV: development =======
+2022-12-09 10:13:19 info: 🚀 App listening on the port 8080
+2022-12-09 10:13:19 info: =================================
+2022-12-09 10:13:21 info: [0mOPTIONS /logout [32m204[0m 6.987 ms - 0[0m
+2022-12-09 10:13:21 info: [0mOPTIONS /logout [32m204[0m 0.857 ms - 0[0m
+2022-12-09 10:13:21 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:13:21 info: [0mPOST /logout [33m400[0m 49.823 ms - 31[0m
+2022-12-09 10:13:21 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:13:21 info: [0mPOST /logout [33m400[0m 9.220 ms - 31[0m
+2022-12-09 10:13:49 info: =================================
+2022-12-09 10:13:49 info: ======= ENV: development =======
+2022-12-09 10:13:49 info: 🚀 App listening on the port 8080
+2022-12-09 10:13:49 info: =================================
+2022-12-09 10:13:52 info: [0mOPTIONS /logout [32m204[0m 5.469 ms - 0[0m
+2022-12-09 10:13:52 info: [0mOPTIONS /logout [32m204[0m 0.722 ms - 0[0m
+2022-12-09 10:13:52 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:13:52 info: [0mPOST /logout [33m400[0m 71.315 ms - 31[0m
+2022-12-09 10:13:52 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:13:52 info: [0mPOST /logout [33m400[0m 12.797 ms - 31[0m
+2022-12-09 10:14:06 info: =================================
+2022-12-09 10:14:06 info: ======= ENV: development =======
+2022-12-09 10:14:06 info: 🚀 App listening on the port 8080
+2022-12-09 10:14:06 info: =================================
+2022-12-09 10:14:07 info: [0mOPTIONS /logout [32m204[0m 5.832 ms - 0[0m
+2022-12-09 10:14:07 info: [0mOPTIONS /logout [32m204[0m 0.885 ms - 0[0m
+2022-12-09 10:14:07 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:14:07 info: [0mPOST /logout [33m400[0m 81.361 ms - 31[0m
+2022-12-09 10:14:07 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:14:07 info: [0mPOST /logout [33m400[0m 34.439 ms - 31[0m
+2022-12-09 10:14:24 info: =================================
+2022-12-09 10:14:24 info: ======= ENV: development =======
+2022-12-09 10:14:24 info: 🚀 App listening on the port 8080
+2022-12-09 10:14:24 info: =================================
+2022-12-09 10:14:26 info: [0mOPTIONS /logout [32m204[0m 5.380 ms - 0[0m
+2022-12-09 10:14:26 info: [0mOPTIONS /logout [32m204[0m 0.850 ms - 0[0m
+2022-12-09 10:14:26 info: [0mPOST /logout [32m200[0m 66.688 ms - 238[0m
+2022-12-09 10:14:26 info: [0mPOST /logout [32m200[0m 23.638 ms - 238[0m
+2022-12-09 10:14:36 info: =================================
+2022-12-09 10:14:36 info: ======= ENV: development =======
+2022-12-09 10:14:36 info: 🚀 App listening on the port 8080
+2022-12-09 10:14:36 info: =================================
+2022-12-09 10:15:07 info: [0mOPTIONS /logout [32m204[0m 5.127 ms - 0[0m
+2022-12-09 10:15:07 info: [0mOPTIONS /logout [32m204[0m 0.600 ms - 0[0m
+2022-12-09 10:15:08 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-09 10:15:08 info: [0mPOST /logout [33m404[0m 41.262 ms - 42[0m
+2022-12-09 10:15:08 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-09 10:15:08 info: [0mPOST /logout [33m404[0m 11.518 ms - 42[0m
+2022-12-09 10:15:15 info: [0mOPTIONS /login [32m204[0m 1.609 ms - 0[0m
+2022-12-09 10:15:15 info: [0mPOST /login [32m200[0m 124.717 ms - 233[0m
+2022-12-09 10:15:23 info: [0mOPTIONS /logout [32m204[0m 0.621 ms - 0[0m
+2022-12-09 10:15:23 info: [0mPOST /logout [32m200[0m 8.133 ms - 238[0m
+2022-12-09 10:15:25 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-09 10:15:25 info: [0mPOST /logout [33m404[0m 6.960 ms - 42[0m
+2022-12-09 10:15:25 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-09 10:15:25 info: [0mPOST /logout [33m404[0m 4.204 ms - 42[0m
+2022-12-09 10:26:03 info: =================================
+2022-12-09 10:26:03 info: ======= ENV: development =======
+2022-12-09 10:26:03 info: 🚀 App listening on the port 8080
+2022-12-09 10:26:03 info: =================================
+2022-12-09 12:33:14 info: =================================
+2022-12-09 12:33:14 info: ======= ENV: development =======
+2022-12-09 12:33:14 info: 🚀 App listening on the port 8080
+2022-12-09 12:33:14 info: =================================

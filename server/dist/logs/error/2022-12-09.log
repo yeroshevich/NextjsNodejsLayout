@@ -1,0 +1,69 @@
+2022-12-09 08:52:53 error: uncaughtException: WHERE parameter "idUser" has invalid "undefined" value
+Error: WHERE parameter "idUser" has invalid "undefined" value
+    at MySQLQueryGenerator.whereItemQuery (D:\repository\diplom\server\node_modules\sequelize\src\dialects\abstract\query-generator.js:2374:13)
+    at D:\repository\diplom\server\node_modules\sequelize\src\dialects\abstract\query-generator.js:2363:25
+    at Array.forEach (<anonymous>)
+    at MySQLQueryGenerator.whereItemsQuery (D:\repository\diplom\server\node_modules\sequelize\src\dialects\abstract\query-generator.js:2361:35)
+    at MySQLQueryGenerator.getWhereConditions (D:\repository\diplom\server\node_modules\sequelize\src\dialects\abstract\query-generator.js:2789:19)
+    at MySQLQueryGenerator.selectQuery (D:\repository\diplom\server\node_modules\sequelize\src\dialects\abstract\query-generator.js:1412:28)
+    at MySQLQueryInterface.select (D:\repository\diplom\server\node_modules\sequelize\src\dialects\abstract\query-interface.js:1002:27)
+    at Function.findAll (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1816:47)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Function.findOne (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1982:12)
+2022-12-09 08:59:27 error: [POST] /login >> StatusCode:: 400, Message:: phoneNumber should not be empty, password must be a string
+2022-12-09 08:59:27 error: [POST] /login >> StatusCode:: 400, Message:: phoneNumber should not be empty, password must be a string
+2022-12-09 09:01:30 error: [POST] /login >> StatusCode:: 400, Message:: phoneNumber should not be empty, password must be a string
+2022-12-09 09:02:03 error: [POST] /login >> StatusCode:: 400, Message:: phoneNumber should not be empty, password must be a string
+2022-12-09 09:02:48 error: [POST] /login >> StatusCode:: 400, Message:: phoneNumber should not be empty, password must be a string
+2022-12-09 09:04:00 error: [POST] /login >> StatusCode:: 400, Message:: phoneNumber should not be empty
+2022-12-09 09:04:05 error: [POST] /login >> StatusCode:: 409, Message:: Password is not matching
+2022-12-09 09:22:43 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 09:22:49 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 09:22:49 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 09:27:04 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 09:27:04 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 09:29:25 error: [POST] /logout >> StatusCode:: 409, Message:: User doesn't exist
+2022-12-09 09:29:25 error: [POST] /logout >> StatusCode:: 409, Message:: User doesn't exist
+2022-12-09 09:29:26 error: [POST] /logout >> StatusCode:: 409, Message:: User doesn't exist
+2022-12-09 09:29:26 error: [POST] /logout >> StatusCode:: 409, Message:: User doesn't exist
+2022-12-09 09:56:30 error: [POST] /signup >> StatusCode:: 409, Message:: This phone (029)2699645 already exists
+2022-12-09 10:06:55 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-09 10:06:55 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-09 10:08:43 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-09 10:08:43 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-09 10:09:02 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-09 10:09:05 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-09 10:09:05 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-09 10:09:48 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:09:52 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:09:52 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:11:33 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:11:34 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:12:12 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:12:12 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:12:42 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:12:42 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:12:46 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:12:46 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:13:21 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:13:21 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:13:52 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:13:52 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:14:07 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:14:07 error: [POST] /logout >> StatusCode:: 400, Message:: userData is empty
+2022-12-09 10:15:08 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-09 10:15:08 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-09 10:15:25 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-09 10:15:25 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2022-12-09 13:09:22 error: uncaughtException: listen EADDRINUSE: address already in use :::8080
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (node:net:1330:16)
+    at listenInCluster (node:net:1378:12)
+    at Server.listen (node:net:1465:7)
+    at Function.listen (D:\repository\diplom\server\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\repository\diplom\server\src\app.ts:35:14)
+    at Object.<anonymous> (D:\repository\diplom\server\src\server.ts:11:7)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)

@@ -1,0 +1,115 @@
+2022-12-19 12:29:12 error: [POST] /userphone >> StatusCode:: 500, Message:: Invalid value { '(29)269-96-65': '' }
+2022-12-19 12:30:06 error: [POST] /userphone >> StatusCode:: 500, Message:: Invalid value { phone: '(29)269-96-65' }
+2022-12-19 12:30:30 error: [POST] /userphone >> StatusCode:: 500, Message:: Invalid value { phone: '(29)269-96-65' }
+2022-12-19 12:32:34 error: [POST] /userphone >> StatusCode:: 500, Message:: Invalid value { phone: '(29)269-96-65' }
+2022-12-19 12:32:55 error: [POST] /userphone >> StatusCode:: 500, Message:: Invalid value { '(29)269-96-65': '' }
+2022-12-19 12:34:23 error: uncaughtException: @Column annotation is missing for "phone" of class "PhoneDTO" or annotation order is wrong.
+Error: @Column annotation is missing for "phone" of class "PhoneDTO" or annotation order is wrong.
+    at addAttributeOptions (D:\repository\diplom\server\node_modules\sequelize-typescript\dist\model\column\attribute-service.js:47:15)
+    at NotNull (D:\repository\diplom\server\node_modules\sequelize-typescript\dist\validation\not-null.js:9:49)
+    at DecorateProperty (D:\repository\diplom\server\node_modules\reflect-metadata\Reflect.js:553:33)
+    at Reflect.decorate (D:\repository\diplom\server\node_modules\reflect-metadata\Reflect.js:123:24)
+    at Object.__decorate (D:\repository\diplom\server\node_modules\tslib\tslib.js:99:96)
+    at Object.<anonymous> (D:\repository\diplom\server\src\dtos\phones.dto.ts:5:3)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+2022-12-19 12:34:35 error: uncaughtException: @Column annotation is missing for "phone" of class "PhoneDTO" or annotation order is wrong.
+Error: @Column annotation is missing for "phone" of class "PhoneDTO" or annotation order is wrong.
+    at addAttributeOptions (D:\repository\diplom\server\node_modules\sequelize-typescript\dist\model\column\attribute-service.js:47:15)
+    at NotNull (D:\repository\diplom\server\node_modules\sequelize-typescript\dist\validation\not-null.js:9:49)
+    at DecorateProperty (D:\repository\diplom\server\node_modules\reflect-metadata\Reflect.js:553:33)
+    at Reflect.decorate (D:\repository\diplom\server\node_modules\reflect-metadata\Reflect.js:123:24)
+    at Object.__decorate (D:\repository\diplom\server\node_modules\tslib\tslib.js:99:96)
+    at Object.<anonymous> (D:\repository\diplom\server\src\dtos\phones.dto.ts:5:3)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+2022-12-19 12:34:57 error: uncaughtException: @Column annotation is missing for "phone" of class "PhoneDTO" or annotation order is wrong.
+Error: @Column annotation is missing for "phone" of class "PhoneDTO" or annotation order is wrong.
+    at addAttributeOptions (D:\repository\diplom\server\node_modules\sequelize-typescript\dist\model\column\attribute-service.js:47:15)
+    at NotNull (D:\repository\diplom\server\node_modules\sequelize-typescript\dist\validation\not-null.js:9:49)
+    at DecorateProperty (D:\repository\diplom\server\node_modules\reflect-metadata\Reflect.js:553:33)
+    at Reflect.decorate (D:\repository\diplom\server\node_modules\reflect-metadata\Reflect.js:123:24)
+    at Object.__decorate (D:\repository\diplom\server\node_modules\tslib\tslib.js:99:96)
+    at Object.<anonymous> (D:\repository\diplom\server\src\dtos\phones.dto.ts:5:3)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+2022-12-19 12:35:18 error: uncaughtException: @Column annotation is missing for "phone" of class "PhoneDTO" or annotation order is wrong.
+Error: @Column annotation is missing for "phone" of class "PhoneDTO" or annotation order is wrong.
+    at addAttributeOptions (D:\repository\diplom\server\node_modules\sequelize-typescript\dist\model\column\attribute-service.js:47:15)
+    at NotNull (D:\repository\diplom\server\node_modules\sequelize-typescript\dist\validation\not-null.js:9:49)
+    at DecorateProperty (D:\repository\diplom\server\node_modules\reflect-metadata\Reflect.js:553:33)
+    at Reflect.decorate (D:\repository\diplom\server\node_modules\reflect-metadata\Reflect.js:123:24)
+    at Object.__decorate (D:\repository\diplom\server\node_modules\tslib\tslib.js:99:96)
+    at Object.<anonymous> (D:\repository\diplom\server\src\dtos\phones.dto.ts:5:3)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+2022-12-19 12:35:59 error: uncaughtException: @Column annotation is missing for "phone" of class "PhoneDTO" or annotation order is wrong.
+Error: @Column annotation is missing for "phone" of class "PhoneDTO" or annotation order is wrong.
+    at addAttributeOptions (D:\repository\diplom\server\node_modules\sequelize-typescript\dist\model\column\attribute-service.js:47:15)
+    at NotNull (D:\repository\diplom\server\node_modules\sequelize-typescript\dist\validation\not-null.js:9:49)
+    at DecorateProperty (D:\repository\diplom\server\node_modules\reflect-metadata\Reflect.js:553:33)
+    at Reflect.decorate (D:\repository\diplom\server\node_modules\reflect-metadata\Reflect.js:123:24)
+    at Object.__decorate (D:\repository\diplom\server\node_modules\tslib\tslib.js:99:96)
+    at Object.<anonymous> (D:\repository\diplom\server\src\dtos\phones.dto.ts:5:3)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+2022-12-19 12:37:36 error: uncaughtException: @Column annotation is missing for "phone" of class "PhoneDTO" or annotation order is wrong.
+Error: @Column annotation is missing for "phone" of class "PhoneDTO" or annotation order is wrong.
+    at addAttributeOptions (D:\repository\diplom\server\node_modules\sequelize-typescript\dist\model\column\attribute-service.js:47:15)
+    at NotNull (D:\repository\diplom\server\node_modules\sequelize-typescript\dist\validation\not-null.js:9:49)
+    at DecorateProperty (D:\repository\diplom\server\node_modules\reflect-metadata\Reflect.js:553:33)
+    at Reflect.decorate (D:\repository\diplom\server\node_modules\reflect-metadata\Reflect.js:123:24)
+    at Object.__decorate (D:\repository\diplom\server\node_modules\tslib\tslib.js:99:96)
+    at Object.<anonymous> (D:\repository\diplom\server\src\dtos\phones.dto.ts:5:3)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+2022-12-19 12:38:51 error: uncaughtException: @Column annotation is missing for "phone" of class "PhoneDTO" or annotation order is wrong.
+Error: @Column annotation is missing for "phone" of class "PhoneDTO" or annotation order is wrong.
+    at addAttributeOptions (D:\repository\diplom\server\node_modules\sequelize-typescript\dist\model\column\attribute-service.js:47:15)
+    at NotNull (D:\repository\diplom\server\node_modules\sequelize-typescript\dist\validation\not-null.js:9:49)
+    at DecorateProperty (D:\repository\diplom\server\node_modules\reflect-metadata\Reflect.js:553:33)
+    at Reflect.decorate (D:\repository\diplom\server\node_modules\reflect-metadata\Reflect.js:123:24)
+    at Object.__decorate (D:\repository\diplom\server\node_modules\tslib\tslib.js:99:96)
+    at Object.<anonymous> (D:\repository\diplom\server\src\dtos\phones.dto.ts:5:3)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+2022-12-19 12:42:39 error: uncaughtException: @Column annotation is missing for "phone" of class "PhoneDTO" or annotation order is wrong.
+Error: @Column annotation is missing for "phone" of class "PhoneDTO" or annotation order is wrong.
+    at addAttributeOptions (D:\repository\diplom\server\node_modules\sequelize-typescript\dist\model\column\attribute-service.js:47:15)
+    at NotNull (D:\repository\diplom\server\node_modules\sequelize-typescript\dist\validation\not-null.js:9:49)
+    at DecorateProperty (D:\repository\diplom\server\node_modules\reflect-metadata\Reflect.js:553:33)
+    at Reflect.decorate (D:\repository\diplom\server\node_modules\reflect-metadata\Reflect.js:123:24)
+    at Object.__decorate (D:\repository\diplom\server\node_modules\tslib\tslib.js:99:96)
+    at Object.<anonymous> (D:\repository\diplom\server\src\dtos\phones.dto.ts:5:3)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+2022-12-19 12:43:58 error: uncaughtException: @Column annotation is missing for "phone" of class "PhoneDTO" or annotation order is wrong.
+Error: @Column annotation is missing for "phone" of class "PhoneDTO" or annotation order is wrong.
+    at addAttributeOptions (D:\repository\diplom\server\node_modules\sequelize-typescript\dist\model\column\attribute-service.js:47:15)
+    at NotNull (D:\repository\diplom\server\node_modules\sequelize-typescript\dist\validation\not-null.js:9:49)
+    at DecorateProperty (D:\repository\diplom\server\node_modules\reflect-metadata\Reflect.js:553:33)
+    at Reflect.decorate (D:\repository\diplom\server\node_modules\reflect-metadata\Reflect.js:123:24)
+    at Object.__decorate (D:\repository\diplom\server\node_modules\tslib\tslib.js:99:96)
+    at Object.<anonymous> (D:\repository\diplom\server\src\dtos\phones.dto.ts:5:3)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+2022-12-19 12:57:53 error: [POST] /signup >> StatusCode:: 400, Message:: property user should not exist, name should not be empty, surname should not be empty, middleName should not be empty, phoneNumber should not be empty, password must be a string, againstPassword must be a string
+2022-12-19 13:01:01 error: [POST] /signup >> StatusCode:: 409, Message:: This phone (29)1111111 already exists
