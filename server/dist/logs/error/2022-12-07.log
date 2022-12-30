@@ -88,57 +88,418 @@ Require stack:
     at Module._compile (node:internal/modules/cjs/loader:1103:14)
     at Module.m._compile (D:\repository\newRepo\server\node_modules\ts-node\src\index.ts:1618:23)
     at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
-2022-12-07 09:11:57 error: uncaughtException: Cannot find module 'class-transformer/types/storage'
+2022-12-07 09:12:47 error: uncaughtException: Cannot find module 'class-transformer/types/storage'
 Require stack:
-- D:\repository\newRepo\server\dist\app.js
-- D:\repository\newRepo\server\dist\server.js
+- D:\repository\newRepo\server\src\app.ts
+- D:\repository\newRepo\server\src\server.ts
 Error: Cannot find module 'class-transformer/types/storage'
 Require stack:
-- D:\repository\newRepo\server\dist\app.js
-- D:\repository\newRepo\server\dist\server.js
+- D:\repository\newRepo\server\src\app.ts
+- D:\repository\newRepo\server\src\server.ts
     at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\newRepo\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\newRepo\server\node_modules\tsconfig-paths\src\register.ts:115:36)
     at Function.Module._load (node:internal/modules/cjs/loader:778:27)
     at Module.require (node:internal/modules/cjs/loader:1005:19)
     at require (node:internal/modules/cjs/helpers:102:18)
-    at Object.<anonymous> (D:\repository\newRepo\server\dist\app.js:23:18)
+    at Object.<anonymous> (D:\repository\newRepo\server\src\app.ts:15:1)
     at Module._compile (node:internal/modules/cjs/loader:1103:14)
-    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
-    at Module.load (node:internal/modules/cjs/loader:981:32)
-    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
-    at Module.require (node:internal/modules/cjs/loader:1005:19)
-2022-12-07 09:13:58 error: uncaughtException: Cannot find module 'class-transformer/types/storage'
+    at Module.m._compile (D:\repository\newRepo\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-07 09:19:52 error: uncaughtException: Cannot find module 'class-transformer/types/storage'
 Require stack:
-- D:\repository\newRepo\server\dist\app.js
-- D:\repository\newRepo\server\dist\server.js
+- D:\repository\newRepo\server\src\app.ts
+- D:\repository\newRepo\server\src\server.ts
 Error: Cannot find module 'class-transformer/types/storage'
 Require stack:
-- D:\repository\newRepo\server\dist\app.js
-- D:\repository\newRepo\server\dist\server.js
+- D:\repository\newRepo\server\src\app.ts
+- D:\repository\newRepo\server\src\server.ts
     at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\newRepo\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\newRepo\server\node_modules\tsconfig-paths\src\register.ts:115:36)
     at Function.Module._load (node:internal/modules/cjs/loader:778:27)
     at Module.require (node:internal/modules/cjs/loader:1005:19)
     at require (node:internal/modules/cjs/helpers:102:18)
-    at Object.<anonymous> (D:\repository\newRepo\server\dist\app.js:23:18)
+    at Object.<anonymous> (D:\repository\newRepo\server\src\app.ts:15:1)
     at Module._compile (node:internal/modules/cjs/loader:1103:14)
-    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
-    at Module.load (node:internal/modules/cjs/loader:981:32)
-    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
-    at Module.require (node:internal/modules/cjs/loader:1005:19)
-2022-12-07 09:19:25 error: uncaughtException: Cannot find module 'class-transformer/types/storage'
+    at Module.m._compile (D:\repository\newRepo\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-07 09:20:09 error: uncaughtException: Cannot find module 'class-transformer/types/storage'
 Require stack:
-- D:\repository\newRepo\server\dist\app.js
-- D:\repository\newRepo\server\dist\server.js
+- D:\repository\newRepo\server\src\app.ts
+- D:\repository\newRepo\server\src\server.ts
 Error: Cannot find module 'class-transformer/types/storage'
 Require stack:
-- D:\repository\newRepo\server\dist\app.js
-- D:\repository\newRepo\server\dist\server.js
+- D:\repository\newRepo\server\src\app.ts
+- D:\repository\newRepo\server\src\server.ts
     at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\newRepo\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\newRepo\server\node_modules\tsconfig-paths\src\register.ts:115:36)
     at Function.Module._load (node:internal/modules/cjs/loader:778:27)
     at Module.require (node:internal/modules/cjs/loader:1005:19)
     at require (node:internal/modules/cjs/helpers:102:18)
-    at Object.<anonymous> (D:\repository\newRepo\server\dist\app.js:23:18)
+    at Object.<anonymous> (D:\repository\newRepo\server\src\app.ts:15:1)
     at Module._compile (node:internal/modules/cjs/loader:1103:14)
-    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Module.m._compile (D:\repository\newRepo\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-07 09:24:43 error: uncaughtException: Cannot find module 'class-transformer/types/storage'
+Require stack:
+- D:\repository\newRepo\server\src\app.ts
+- D:\repository\newRepo\server\src\server.ts
+Error: Cannot find module 'class-transformer/types/storage'
+Require stack:
+- D:\repository\newRepo\server\src\app.ts
+- D:\repository\newRepo\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\newRepo\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\newRepo\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\newRepo\server\src\app.ts:15:1)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\newRepo\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-07 09:25:07 error: uncaughtException: Cannot find module 'class-transformer/types/storage'
+Require stack:
+- D:\repository\newRepo\server\src\app.ts
+- D:\repository\newRepo\server\src\server.ts
+Error: Cannot find module 'class-transformer/types/storage'
+Require stack:
+- D:\repository\newRepo\server\src\app.ts
+- D:\repository\newRepo\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\newRepo\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\newRepo\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\newRepo\server\src\app.ts:15:1)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\newRepo\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-07 09:38:11 error: uncaughtException: Cannot find module 'class-transformer/types/storage'
+Require stack:
+- D:\repository\newRepo\server\src\app.ts
+- D:\repository\newRepo\server\src\server.ts
+Error: Cannot find module 'class-transformer/types/storage'
+Require stack:
+- D:\repository\newRepo\server\src\app.ts
+- D:\repository\newRepo\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\newRepo\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\newRepo\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\newRepo\server\src\app.ts:15:1)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\newRepo\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-07 09:43:01 error: uncaughtException: Cannot find module 'class-transformer/types/storage'
+Require stack:
+- D:\repository\newRepo\server\src\app.ts
+- D:\repository\newRepo\server\src\server.ts
+Error: Cannot find module 'class-transformer/types/storage'
+Require stack:
+- D:\repository\newRepo\server\src\app.ts
+- D:\repository\newRepo\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\newRepo\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\newRepo\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\newRepo\server\src\app.ts:15:1)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\newRepo\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-07 09:44:14 error: uncaughtException: Cannot find module 'class-transformer/types/storage'
+Require stack:
+- D:\repository\newRepo\server\src\app.ts
+- D:\repository\newRepo\server\src\server.ts
+Error: Cannot find module 'class-transformer/types/storage'
+Require stack:
+- D:\repository\newRepo\server\src\app.ts
+- D:\repository\newRepo\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\newRepo\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\newRepo\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\newRepo\server\src\app.ts:15:1)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\newRepo\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-07 10:04:38 error: uncaughtException: Cannot find module 'class-transformer/types/storage'
+Require stack:
+- D:\repository\NODEJS server temp\server\src\app.ts
+- D:\repository\NODEJS server temp\server\src\server.ts
+Error: Cannot find module 'class-transformer/types/storage'
+Require stack:
+- D:\repository\NODEJS server temp\server\src\app.ts
+- D:\repository\NODEJS server temp\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (D:\repository\NODEJS server temp\server\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (D:\repository\NODEJS server temp\server\node_modules\tsconfig-paths\src\register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\NODEJS server temp\server\src\app.ts:15:1)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\NODEJS server temp\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+2022-12-07 10:10:25 error: [GET] / >> StatusCode:: 500, Message:: Something went wrong
+2022-12-07 16:15:37 error: uncaughtException: Invalid Instance definition. Only one autoincrement field allowed.
+Error: Invalid Instance definition. Only one autoincrement field allowed.
+    at Function._findAutoIncrementAttribute (D:\repository\diplom\server\node_modules\sequelize\src\model.js:332:19)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1107:10)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\roles.repository.ts:5:42)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-12-07 16:16:43 error: uncaughtException: Invalid Instance definition. Only one autoincrement field allowed.
+Error: Invalid Instance definition. Only one autoincrement field allowed.
+    at Function._findAutoIncrementAttribute (D:\repository\diplom\server\node_modules\sequelize\src\model.js:332:19)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1107:10)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\roles.repository.ts:5:42)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-12-07 16:17:19 error: uncaughtException: Invalid Instance definition. Only one autoincrement field allowed.
+Error: Invalid Instance definition. Only one autoincrement field allowed.
+    at Function._findAutoIncrementAttribute (D:\repository\diplom\server\node_modules\sequelize\src\model.js:332:19)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1107:10)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\roles.repository.ts:5:42)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-12-07 16:18:16 error: uncaughtException: Invalid Instance definition. Only one autoincrement field allowed.
+Error: Invalid Instance definition. Only one autoincrement field allowed.
+    at Function._findAutoIncrementAttribute (D:\repository\diplom\server\node_modules\sequelize\src\model.js:332:19)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1107:10)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\roles.repository.ts:5:42)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-12-07 16:19:33 error: uncaughtException: Cannot read properties of undefined (reading 'define')
+TypeError: Cannot read properties of undefined (reading 'define')
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\users.repository.ts:14:41)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
     at Module.load (node:internal/modules/cjs/loader:981:32)
     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
     at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (D:\repository\diplom\server\src\middlewares\auth.middleware.ts:6:1)
+2022-12-07 16:19:48 error: uncaughtException: Invalid Instance definition. Only one autoincrement field allowed.
+Error: Invalid Instance definition. Only one autoincrement field allowed.
+    at Function._findAutoIncrementAttribute (D:\repository\diplom\server\node_modules\sequelize\src\model.js:332:19)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1107:10)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\users.repository.ts:13:41)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-12-07 16:20:41 error: uncaughtException: Invalid Instance definition. Only one autoincrement field allowed.
+Error: Invalid Instance definition. Only one autoincrement field allowed.
+    at Function._findAutoIncrementAttribute (D:\repository\diplom\server\node_modules\sequelize\src\model.js:332:19)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1107:10)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\users.repository.ts:13:41)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-12-07 16:20:52 error: uncaughtException: Invalid Instance definition. Only one autoincrement field allowed.
+Error: Invalid Instance definition. Only one autoincrement field allowed.
+    at Function._findAutoIncrementAttribute (D:\repository\diplom\server\node_modules\sequelize\src\model.js:332:19)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1107:10)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\roles.repository.ts:5:42)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-12-07 16:22:05 error: uncaughtException: Invalid Instance definition. Only one autoincrement field allowed.
+Error: Invalid Instance definition. Only one autoincrement field allowed.
+    at Function._findAutoIncrementAttribute (D:\repository\diplom\server\node_modules\sequelize\src\model.js:332:19)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1107:10)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\roles.repository.ts:5:42)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-12-07 16:22:20 error: uncaughtException: Invalid Instance definition. Only one autoincrement field allowed.
+Error: Invalid Instance definition. Only one autoincrement field allowed.
+    at Function._findAutoIncrementAttribute (D:\repository\diplom\server\node_modules\sequelize\src\model.js:332:19)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1107:10)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\roles.repository.ts:5:42)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-12-07 16:22:42 error: uncaughtException: Invalid Instance definition. Only one autoincrement field allowed.
+Error: Invalid Instance definition. Only one autoincrement field allowed.
+    at Function._findAutoIncrementAttribute (D:\repository\diplom\server\node_modules\sequelize\src\model.js:332:19)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1107:10)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\roles.repository.ts:5:42)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-12-07 16:22:59 error: uncaughtException: Invalid Instance definition. Only one autoincrement field allowed.
+Error: Invalid Instance definition. Only one autoincrement field allowed.
+    at Function._findAutoIncrementAttribute (D:\repository\diplom\server\node_modules\sequelize\src\model.js:332:19)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1107:10)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\roles.repository.ts:5:42)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-12-07 16:23:56 error: uncaughtException: Invalid Instance definition. Only one autoincrement field allowed.
+Error: Invalid Instance definition. Only one autoincrement field allowed.
+    at Function._findAutoIncrementAttribute (D:\repository\diplom\server\node_modules\sequelize\src\model.js:332:19)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1107:10)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\roles.repository.ts:5:42)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-12-07 16:25:02 error: uncaughtException: Invalid Instance definition. Only one autoincrement field allowed.
+Error: Invalid Instance definition. Only one autoincrement field allowed.
+    at Function._findAutoIncrementAttribute (D:\repository\diplom\server\node_modules\sequelize\src\model.js:332:19)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1107:10)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\roles.repository.ts:5:42)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-12-07 16:25:16 error: uncaughtException: Dialect needs to be explicitly supplied as of v4.0.0
+Error: Dialect needs to be explicitly supplied as of v4.0.0
+    at new Sequelize (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:299:13)
+    at Object.<anonymous> (D:\repository\diplom\server\src\database\database.ts:5:26)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+2022-12-07 16:25:25 error: uncaughtException: Invalid Instance definition. Only one autoincrement field allowed.
+Error: Invalid Instance definition. Only one autoincrement field allowed.
+    at Function._findAutoIncrementAttribute (D:\repository\diplom\server\node_modules\sequelize\src\model.js:332:19)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1107:10)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\roles.repository.ts:5:42)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-12-07 16:26:20 error: uncaughtException: Invalid Instance definition. Only one autoincrement field allowed.
+Error: Invalid Instance definition. Only one autoincrement field allowed.
+    at Function._findAutoIncrementAttribute (D:\repository\diplom\server\node_modules\sequelize\src\model.js:332:19)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1107:10)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\roles.repository.ts:5:42)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-12-07 16:26:42 error: uncaughtException: Invalid Instance definition. Only one autoincrement field allowed.
+Error: Invalid Instance definition. Only one autoincrement field allowed.
+    at Function._findAutoIncrementAttribute (D:\repository\diplom\server\node_modules\sequelize\src\model.js:332:19)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1107:10)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\roles.repository.ts:5:42)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-12-07 16:31:19 error: uncaughtException: Invalid Instance definition. Only one autoincrement field allowed.
+Error: Invalid Instance definition. Only one autoincrement field allowed.
+    at Function._findAutoIncrementAttribute (D:\repository\diplom\server\node_modules\sequelize\src\model.js:332:19)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1107:10)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\roles.repository.ts:5:42)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-12-07 16:31:25 error: uncaughtException: Invalid Instance definition. Only one autoincrement field allowed.
+Error: Invalid Instance definition. Only one autoincrement field allowed.
+    at Function._findAutoIncrementAttribute (D:\repository\diplom\server\node_modules\sequelize\src\model.js:332:19)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1107:10)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\roles.repository.ts:5:42)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-12-07 16:54:45 error: uncaughtException: Invalid Instance definition. Only one autoincrement field allowed.
+Error: Invalid Instance definition. Only one autoincrement field allowed.
+    at Function._findAutoIncrementAttribute (D:\repository\diplom\server\node_modules\sequelize\src\model.js:332:19)
+    at Function.init (D:\repository\diplom\server\node_modules\sequelize\src\model.js:1107:10)
+    at Sequelize.define (D:\repository\diplom\server\node_modules\sequelize\src\sequelize.js:467:11)
+    at Object.<anonymous> (D:\repository\diplom\server\src\repositories\roles.repository.ts:5:42)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module.m._compile (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\repository\diplom\server\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)

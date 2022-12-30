@@ -8,5 +8,10 @@ const users_controller_1 = require("@controllers/users.controller");
 const validateEnv_1 = tslib_1.__importDefault(require("@utils/validateEnv"));
 (0, validateEnv_1.default)();
 const app = new app_1.default([auth_controller_1.AuthController, index_controller_1.IndexController, users_controller_1.UsersController]);
-app.listen();
+try {
+    app.listen();
+}
+catch (e) {
+    console.log(e);
+}
 //# sourceMappingURL=server.js.map

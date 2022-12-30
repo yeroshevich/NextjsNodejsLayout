@@ -17,7 +17,7 @@ class App {
     constructor(Controllers) {
         this.app = (0, express_1.default)();
         this.env = _config_1.NODE_ENV || 'development';
-        this.port = _config_1.PORT || 3000;
+        this.port = _config_1.PORT || 8080;
         this.initializeMiddlewares();
         this.initializeRoutes(Controllers);
         //this.initializeSwagger(Controllers);

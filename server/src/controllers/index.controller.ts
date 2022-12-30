@@ -1,10 +1,11 @@
-import { Controller, Get, Res } from "routing-controllers";
-import { Response } from "express";
+import {Controller, Get, Req, Res, UseAfter, UseBefore} from "routing-controllers";
+
 
 @Controller()
 export class IndexController {
+
   @Get('/')
-  index(@Res() res:Response) {
-    return 'ok'
+  async index() {
+    return 'IndexController to index'
   }
 }

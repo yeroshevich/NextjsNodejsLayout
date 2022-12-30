@@ -7,4 +7,10 @@ import validateEnv from '@utils/validateEnv';
 validateEnv();
 
 const app = new App([AuthController, IndexController, UsersController]);
-app.listen();
+try{
+  app.listen();
+
+}catch (e)
+{
+  console.log(e)
+}
